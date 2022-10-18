@@ -1,0 +1,672 @@
+Name,Test_ID,Smiles,Sweetness,logSw
+"1',4',6'-3Cl-sucrose",test_1,ClC1C(O)[C@@](OC1CCl)(OC1OC(CO)C(O)C(O)C1O)CCl,10000,4
+"1',4'-2Cl-sucrose",test_2,ClC1C(O)[C@@](OC1CO)(OC1OC(CO)C(O)C(O)C1O)CCl,3000,3.48
+"1',6'-2Cl-sucrose",test_3,ClCC1O[C@](OC2OC(CO)C(O)C(O)C2O)(CCl)C(O)C1O,7800,3.89
+1'-Cl-sucrose,test_4,ClC[C@]1(OC(CO)C(O)C1O)OC1OC(CO)C(O)C(O)C1O,2000,3.3
+"4'-Br-4,1',6'-3Cl-sucrose",test_5,BrC1C(O)[C@@](OC1CCl)(OC1OC(CO)C(Cl)C(O)C1O)CCl,325000,5.51
+"4'-F-4,1',6'-3Cl-sucrose",test_6,ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CCl)C(F)C1O)CCl,100000,5
+"4,1',4',6'-4Br-sucrose",test_7,BrC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CBr)C(Br)C1O)CBr,750000,5.88
+"4,1',4',6'-4Cl-sucrose",test_8,ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CCl)C(Cl)C1O)CCl,210000,5.32
+"4,1',4'-3Cl-sucrose",test_9,ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CO)C(Cl)C1O)CCl,22000,4.34
+"4,1',6'-3Br-sucrose",test_10,BrC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CBr)C(O)C1O)CBr,80000,4.9
+"4,1',6'-3Cl-sucrose",test_11,ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CCl)C(O)C1O)CCl,62500,4.8
+"4,1',6'-3F-sucrose",test_12,FC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CF)C(O)C1O)CF,4000,3.6
+"4,1',6'-3I-sucrose",test_13,IC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CI)C(O)C1O)CI,12000,4.08
+"4,1'-2Cl-sucrose",test_14,ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CO)C(O)C1O)CCl,12000,4.08
+"4,4',6'-3Cl-sucrose",test_15,ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CCl)C(Cl)C1O)CO,16000,4.2
+"4,6,1',6'-4Cl-sucrose",test_16,ClC1C(O)C(O)C(OC1CCl)O[C@@]1(OC(CCl)C(O)C1O)CCl,20000,4.3
+4-Cl-sucrose,test_17,ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CO)C(O)C1O)CO,500,2.7
+"4-F-1',4',6'-3Br-sucrose",test_18,BrC1C(O)[C@@](OC1CBr)(OC1OC(CO)C(F)C(O)C1O)CBr,100000,5
+"4-F-1',4',6'-3Cl-sucrose",test_19,ClC1C(O)[C@@](OC1CCl)(OC1OC(CO)C(F)C(O)C1O)CCl,60000,4.78
+4-O-n-propyl glycosides DHC,test_20,O1C(CO)C(O)C(O)C(O[C@H]2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2cc(O)c(OCCC)cc2)c(O)c1,200000,5.3
+"4?,10?-dimethyl-1,2,3,4,5,10-hexahydrofluorene-4?,6?-dicarboxylic acid",test_21,O[C@@]1([C@@H]2[C@](CCC[C@]2(c2c1cccc2)C)(C(O)=O)C)C(O)=O,155000,5.19
+6'-Cl-sucrose,test_22,ClCC1O[C@](OC2OC(CO)C(O)C(O)C2O)(CO)C(O)C1O,2000,3.3
+"6,1',6'-3Cl-sucrose",test_23,ClCC1OC(O[C@@]2(OC(CCl)C(O)C2O)CCl)C(O)C(O)C1O,2500,3.4
+6-chloro-tryptophan,test_24,Clc1c2c([nH]cc2CC(N)C(O)=O)ccc1,100000,5
+D-tagatose,test_25,OC(C(O)C(=O)CO)C(O)CO,92,1.96
+DHQ-3-SIFA-4'-methyl ether,test_26,O1c2c(C(=O)C(OC(=O)C)C1c1cc(O)c(OC)cc1)c(O)cc(O)c2,40000,4.6
+liquiritin,test_27,O1C(CO)C(O)C(O)C(O)C1Oc1ccc(cc1)C1Oc2c(ccc(O)c2)C(=O)C1,25000,4.4
+N-Acetyl-D-glucosamine,test_28,OC(C(NC(=O)C)C=O)C(O)C(O)CO,55,1.74
+Periandrin I,test_29,O1[C@@H](OC2CC[C@]3([C@@H](CC[C@]4([C@@H]3CC[C@@H]3C5=C[C@](CC[C@]5(CC[C@@]34C)C)(C(O)=O)C)C)C2(C)C)C=O)C(O[C@@H]2OC(C(O)=O)C(O)C(O)C2O)C(O)C(O)C1C(O)=O,8500,3.93
+Periandrin II,test_30,O1[C@@H](OC2CC[C@]3([C@@H](CC[C@]4([C@@H]3CC=C3[C@@H]5C[C@](CC[C@]5(CC[C@@]34C)C)(C(O)=O)C)C)C2(C)C)C=O)C(O[C@@H]2OC(C(O)=O)C(O)C(O)C2O)C(O)C(O)C1C(O)=O,10000,4
+Periandrin III,test_31,O1C(C(O)=O)C(O)C(O)C(OC2OC(C(O)=O)C(O)C(O)C2O)C1OC1CC[C@]2(C(CC[C@@]3(C2CCC2C4=C[C@@](CC[C@@]4(CC[C@@]23C)C)(C(O)=O)C)C)C1(C)C)CO,10000,4
+Periandrin IV,test_32,O1C(C(O)=O)C(O)C(O)C(OC2OC(C(O)=O)C(O)C(O)C2O)C1OC1CC[C@]2(C(CC[C@@]3(C2CC=C2C4C[C@@](CC[C@@]4(CC[C@@]23C)C)(C(O)=O)C)C)C1(C)C)CO,10000,4
+abrusoside B,test_33,O1[C@H](OC2CC[C@@]34[C@@H](CC[C@H]5[C@@]3(CC[C@]3(C)[C@]5(CC[C@@H]3C(C)[C@@H]3OC(=O)C(=CC3)C)C)C4)[C@]2(C(O)=O)C)C(O[C@H]2OC(CO)C(O)C(O)C2O)C(O)C(O)C1C(OC)=O,10000,4
+abrusoside C,test_34,O1[C@H](OC2CC[C@@]34[C@@H](CC[C@H]5[C@@]3(CC[C@]3(C)[C@]5(CC[C@@H]3C(C)[C@@H]3OC(=O)C(=CC3)C)C)C4)[C@]2(C(O)=O)C)C(O[C@H]2OC(CO)C(O)C(O)C2O)C(O)C(O)C1CO,5000,3.7
+abrusoside D,test_35,O1[C@H](OC2CC[C@@]34[C@@H](CC[C@H]5[C@@]3(CC[C@]3(C)[C@]5(CC[C@@H]3C(C)[C@@H]3OC(=O)C(=CC3)C)C)C4)[C@]2(C(O)=O)C)C(O[C@H]2OC(CO)C(O)C(O)C2O)C(O)C(O)C1C(O)=O,7500,3.88
+acesulfame potassium_CH3CH2CH2_CH3,test_36,S1(OC(C)=C(CCC)C(=O)N1)(=O)=O,3000,3.48
+acesulfame potassium_CH3CH2_CH3,test_37,S1(OC(C)=C(CC)C(=O)N1)(=O)=O,25000,4.4
+acesulfame potassium_CH3CH2_H,test_38,S1(OC=C(CC)C(=O)N1)(=O)=O,2000,3.3
+acesulfame potassium_CH3_CH3,test_39,S1(OC(C)=C(C)C(=O)N1)(=O)=O,13000,4.11
+acesulfame potassium_CH3_H,test_40,S1(OC=C(C)C(=O)N1)(=O)=O,2000,3.3
+acesulfame potassium_H_CH3,test_41,S1(OC(=CC(=O)N1)C)(=O)=O,15600,4.19
+acesulfame potassium_H_CH3CH2,test_42,S1(OC(=CC(=O)N1)CC)(=O)=O,15000,4.18
+acesulfame potassium_H_H,test_43,S1(OC=CC(=O)N1)(=O)=O,1000,3
+albiziasaponin B,test_44,O1C(COC2OCC(O)C(O)C2O)C(O)C(O)C(OC2OC(CO)C(O)C(O)C2O)C1OC1CC[C@]2(C(CC[C@@]3(C2CC=C2C4[C@@]5(CC(OC5=O)C(C4)(C)C)C(O)C[C@@]23C)C)C1(C)C)C,60000,4.78
+ammonium glycyrrhizinate,test_45,O1[C@H](OC2CC[C@@]3([C@@H]4[C@](CC[C@H]3C2(C)C)(C)[C@]2(CC[C@]3([C@H](C2=CC4=O)C[C@](CC3)(C(O)=O)C)C)C)C)C(O[C@@H]2OC(C(O)=O)C(O)C(O)C2O)C(O)C(O)C1C(O)=O.N,20000,4.3
+arabinose,test_46,OC(C(O)CO)C(O)C=O,69,1.84
+asp 1,test_47,Fc1ccc(cc1)CCNC(=O)C(N)CC(O)=O,371.5352291,2.57
+asp 10,test_48,OC(=O)CC(N)C(=O)NC(CCCCC)C,2691.534804,3.43
+asp 100,test_49,O(C(=O)CC)CC(NC(=O)C(N)CC(O)=O)CC,3019.95172,3.48
+asp 101,test_50,O(C(=O)C(C)C)CC(NC(=O)C(N)CC(O)=O)CC,2398.832919,3.38
+asp 102,test_51,O(C(=O)C1CC1)CC(NC(=O)C(N)CC(O)=O)CC,2398.832919,3.38
+asp 103,test_52,O(C(=O)C1CCC1)CC(NC(=O)C(N)CC(O)=O)CC,2511.886432,3.4
+asp 104,test_53,O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)C(O)C,301.995172,2.48
+asp 105,test_54,O(C(=O)CC)CC(NC(=O)C(N)CC(O)=O)C(O)C,1621.810097,3.21
+asp 106,test_55,O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)C(C)C,3801.893963,3.58
+asp 107,test_56,O(C(=O)CC)CC(NC(=O)C(N)CC(O)=O)C(C)C,3981.071706,3.6
+asp 108,test_57,O(C(=O)C(C)C)CC(NC(=O)C(N)CC(O)=O)C(C)C,1258.925412,3.1
+asp 109,test_58,O(C(=O)C1CC1)CC(NC(=O)C(N)CC(O)=O)C(C)C,1659.586907,3.22
+asp 11,test_59,OC(=O)CC(N)C(=O)NC(CCC(C)C)C,3467.368505,3.54
+asp 110,test_60,O(C(=O)C1CCC1)CC(NC(=O)C(N)CC(O)=O)C(C)C,1148.153621,3.06
+asp 112,test_61,O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)CCC,457.0881896,2.66
+asp 122,test_62,O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)C(OC)=O,812.8305162,2.91
+asp 123,test_63,O(C(=O)CC)CC(NC(=O)C(N)CC(O)=O)C(OC)=O,3388.441561,3.53
+asp 124,test_64,O(C(=O)CCC)CC(NC(=O)C(N)CC(O)=O)C(OC)=O,2691.534804,3.43
+asp 125,test_65,O(C(=O)C(C)C)CC(NC(=O)C(N)CC(O)=O)C(OC)=O,4466.835922,3.65
+asp 126,test_66,O(C(=O)C(C)(C)C)CC(NC(=O)C(N)CC(O)=O)C(OC)=O,6456.54229,3.81
+asp 128,test_67,O(C(=O)CC(NC(=O)C(N)CC(O)=O)C)CC,1445.439771,3.16
+asp 129,test_68,O(C(C)C)C(=O)CC(NC(=O)C(N)CC(O)=O)C,691.8309709,2.84
+asp 130,test_69,O(C(CC)C)C(=O)CC(NC(=O)C(N)CC(O)=O)C,398.1071706,2.6
+asp 131,test_70,O(C(C)(C)C)C(=O)CC(NC(=O)C(N)CC(O)=O)C,478.6300923,2.68
+asp 132,test_71,O(C(=O)CC(NC(=O)C(N)CC(O)=O)C)C1CCCCC1,436.5158322,2.64
+asp 134,test_72,O(C(CC)C)C(=O)CCNC(=O)C(N)CC(O)=O,537.0317964,2.73
+asp 135,test_73,O(C(C)(C)C)C(=O)CCNC(=O)C(N)CC(O)=O,229.0867653,2.36
+asp 136,test_74,O(C(CC)CC)C(=O)CCNC(=O)C(N)CC(O)=O,398.1071706,2.6
+asp 137,test_75,O(C(CCC)C)C(=O)CCNC(=O)C(N)CC(O)=O,478.6300923,2.68
+asp 138,test_76,O(C(=O)CCNC(=O)C(N)CC(O)=O)C1CCCC1,1445.439771,3.16
+asp 139,test_77,O(C(=O)CCNC(=O)C(N)CC(O)=O)C1CCCCC1,1659.586907,3.22
+asp 14,test_78,O(CCC(NC(=O)C(N)CC(O)=O)C)CC,1380.384265,3.14
+asp 140,test_79,O(C(C)C)C(=O)C(CNC(=O)C(N)CC(O)=O)C,151.3561248,2.18
+asp 141,test_80,O(C(C)(C)C)C(=O)C(CNC(=O)C(N)CC(O)=O)C,323.5936569,2.51
+asp 142,test_81,O(C(=O)C(CNC(=O)C(N)CC(O)=O)C)C1CCCC1,758.577575,2.88
+asp 143,test_82,O(C(=O)C(CNC(=O)C(N)CC(O)=O)C)C1CCCCC1,870.96359,2.94
+asp 15,test_83,OC(=O)CC(N)C(=O)NC(CCCCCC)C,1479.108388,3.17
+asp 153,test_84,O(C(=O)CC(NC(=O)C(N)CC(O)=O)C)C,269.1534804,2.43
+asp 154,test_85,O(C(=O)CCNC(=O)C(N)CC(O)=O)C,128.8249552,2.11
+asp 155,test_86,O(C(C)C)C(=O)CCNC(=O)C(N)CC(O)=O,501.1872336,2.7
+asp 156,test_87,O(C(=O)CC(NC(=O)C(N)CC(O)=O)C(OC)=O)CC,398.1071706,2.6
+asp 157,test_88,O(C(C)(C)C)C(=O)CC(NC(=O)C(N)CC(O)=O)C(OC)=O,1995.262315,3.3
+asp 159,test_89,O(C(=O)C(NC(=O)C(N)CC(O)=O)CC)C,1096.478196,3.04
+asp 16,test_90,OC(=O)CC(N)C(=O)NC(Cc1ccccc1)CC,776.2471166,2.89
+asp 160,test_91,O(C(=O)C(NC(=O)C(N)CC(O)=O)CO)C,3090.295433,3.49
+asp 161,test_92,O(C(=O)C(NC(=O)C(N)CC(O)=O)CO)CC,8317.637711,3.92
+asp 163,test_93,O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)CO,9120.108394,3.96
+asp 164,test_94,O(C(=O)C(NC(=O)C(N)CC(O)=O)CO)CCCC,5623.413252,3.75
+asp 165,test_95,O(C(=O)C(NC(=O)C(N)CC(O)=O)CO)CC(C)C,16218.10097,4.21
+asp 166,test_96,O(C(=O)C(NC(=O)C(N)CC(O)=O)CO)C1CCCCC1,5248.074602,3.72
+asp 167,test_97,O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)C,1819.700859,3.26
+asp 168,test_98,O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)CC,8511.380382,3.93
+asp 169,test_99,O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)CCC,12022.64435,4.08
+asp 17,test_100,OC(=O)CC(N)C(=O)NC(Cc1ccccc1)(C)C,1548.816619,3.19
+asp 170,test_101,O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C,8511.380382,3.93
+asp 171,test_102,O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)CCCC,2570.395783,3.41
+asp 172,test_103,O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)CC(C)C,9332.543008,3.97
+asp 173,test_104,O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)C1CCCCC1,2754.228703,3.44
+asp 18,test_105,OC(=O)CC(N)C(=O)NC(C(CCCCC)C)C,3801.893963,3.58
+asp 181,test_106,O(C(=O)C(NC(=O)C(N)CC(O)=O)CC)CCC,7244.359601,3.86
+asp 182,test_107,O(C(=O)CNC(=O)C(N)CC(O)=O)C,478.6300923,2.68
+asp 183,test_108,O(C(=O)CNC(=O)C(N)CC(O)=O)CCC,954.992586,2.98
+asp 184,test_109,O(C(=O)CNC(=O)C(N)CC(O)=O)C1CCCCC1,1047.128548,3.02
+asp 185,test_110,O(C(=O)C(NC(=O)C(N)CC(O)=O)CCC)CCC,3630.780548,3.56
+asp 186,test_111,O(C(=O)C(NC(=O)C(N)CC(O)=O)C)C,1584.893192,3.2
+asp 187,test_112,O(C(=O)C(NC(=O)C(N)CC(O)=O)C)CC,5623.413252,3.75
+asp 188,test_113,O(C(=O)C(NC(=O)C(N)CC(O)=O)C)CCC,12589.25412,4.1
+asp 189,test_114,O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)C,8912.509381,3.95
+asp 19,test_115,O(C(=O)C(NC(=O)C(N)CC(O)=O)Cc1ccccc1)C,12882.49552,4.11
+asp 190,test_116,O(C(=O)C(NC(=O)C(N)CC(O)=O)C)CCCC,794.3282347,2.9
+asp 191,test_117,O(C(=O)C(NC(=O)C(N)CC(O)=O)C)CCCCC,478.6300923,2.68
+asp 192,test_118,O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)CC,14125.37545,4.15
+asp 193,test_119,O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)C(C)C,14125.37545,4.15
+asp 194,test_120,O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)CCC,2691.534804,3.43
+asp 197,test_121,O(C(C)(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O,10715.19305,4.03
+asp 198,test_122,O(C(CC)CC)C(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O,61659.50019,4.79
+asp 2,test_123,OC(=O)CC(N)C(=O)NCCC1CCCCC1,707.9457844,2.85
+asp 200,test_124,O(C(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O)C1CCCC1,83176.37711,4.92
+asp 201,test_125,O(C(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O)C1CCCCC1,138038.4265,5.14
+asp 204,test_126,O(C(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O)C1CC(CCC1)C,104712.8548,5.02
+asp 207,test_127,O(C(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O)C1CC(CC(C1)C)(C)C,57543.99373,4.76
+asp 208,test_128,O(C(OC(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O)=O)C1CC2CC[C@]1(C)C2(C)C,144543.9771,5.16
+asp 21,test_129,O(C(=O)C(NC(=O)C(N)CC(O)=O)CCCC)C,3090.295433,3.49
+asp 211,test_130,O(C(C)(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)C(OCC)=O,20892.96131,4.32
+asp 212,test_131,O(C(=O)C(NC(=O)C(N)CC(O)=O)C(OCC)=O)C1CCCC1,27542.28703,4.44
+asp 213,test_132,O(C(=O)C(NC(=O)C(N)CC(O)=O)C(OCC)=O)C1CCCCC1,47863.00923,4.68
+asp 214,test_133,O(C(=O)C(NC(=O)C(N)CC(O)=O)C(OCC)=O)C1CCCCC1C,123026.8771,5.09
+asp 215,test_134,O(C(OC(=O)C(NC(=O)C(N)CC(O)=O)C(OCC)=O)=O)C1CC2CC[C@]1(C)C2(C)C,1122018.454,6.05
+asp 22,test_135,O(C(=O)C(NC(=O)C(N)CC(O)=O)CCC(C)C)C,12882.49552,4.11
+asp 23,test_136,O(C(=O)C(NC(=O)C(N)CC(O)=O)CCCCC)C,7943.282347,3.9
+asp 24,test_137,O(C(=O)C(NC(=O)C(N)CC(O)=O)CCCCCC)C,11748.97555,4.07
+asp 3,test_138,OC(=O)CC(N)C(=O)NC(Cc1ccccc1)C,3630.780548,3.56
+asp 4,test_139,OC(=O)CC(N)C(=O)NC(Cc1ccc(cc1)C)C,776.2471166,2.89
+asp 5,test_140,O(CC(NC(=O)C(N)CC(O)=O)C)c1ccccc1,1548.816619,3.19
+asp 52,test_141,O(C(=O)C(NC(=O)C(N)CC(O)=O)CCCCNOC(=O)C)C,186.2087137,2.27
+asp 53,test_142,O(C(=O)C(NC(=O)C(N)CC(O)=O)CCCNOC(=O)C)C,177.827941,2.25
+asp 55,test_143,O(C(=O)C(CC(NC(=O)C(N)CC(O)=O)C(OC)=O)C)C,1412.537545,3.15
+asp 56,test_144,O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)CCC)C,1445.439771,3.16
+asp 58,test_145,O(C(=O)CCCNC(=O)C(N)CC(O)=O)C,134.8962883,2.13
+asp 6,test_146,Fc1ccc(cc1)CC(NC(=O)C(N)CC(O)=O)C,3162.27766,3.5
+asp 60,test_147,S(CC(NC(=O)C(N)CC(O)=O)C(OC)=O)CC,3981.071706,3.6
+asp 61,test_148,S(CC(NC(=O)C(N)CC(O)=O)C(OC)=O)CCC,12882.49552,4.11
+asp 62,test_149,S(C(C)C)CC(NC(=O)C(N)CC(O)=O)C(OC)=O,16982.43652,4.23
+asp 63,test_150,S(C(C)(C)C)CC(NC(=O)C(N)CC(O)=O)C(OC)=O,89125.09381,4.95
+asp 64,test_151,O(C(C)(C)C)CC(NC(=O)C(N)CC(O)=O)C(OC)=O,14125.37545,4.15
+asp 65,test_152,Oc1ccc(cc1)CC(NC(=O)C(N)CC(O)=O)C(OC)=O,14125.37545,4.15
+asp 66,test_153,O(C(=O)C(NC(=O)C(N)CC(O)=O)CCC(OC)=O)C,10000,4
+asp 67,test_154,O(C(=O)C)CCNC(=O)C(N)CC(O)=O,190.5460718,2.28
+asp 68,test_155,O(C(=O)CC)CCNC(=O)C(N)CC(O)=O,407.3802778,2.61
+asp 69,test_156,O(C(=O)CCC)CCNC(=O)C(N)CC(O)=O,363.0780548,2.56
+asp 7,test_157,o1cccc1CC(NC(=O)C(N)CC(O)=O)C,1445.439771,3.16
+asp 70,test_158,O(C(=O)C(C)C)CCNC(=O)C(N)CC(O)=O,1445.439771,3.16
+asp 71,test_159,O(C(=O)C1CC1)CCNC(=O)C(N)CC(O)=O,1071.519305,3.03
+asp 72,test_160,O(C(=O)C1CCC1)CCNC(=O)C(N)CC(O)=O,977.237221,2.99
+asp 73,test_161,O(C(=O)CC(C)C)CCNC(=O)C(N)CC(O)=O,2290.867653,3.36
+asp 74,test_162,O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)C,4073.802778,3.61
+asp 75,test_163,O(C(=O)CC)CC(NC(=O)C(N)CC(O)=O)C,7244.359601,3.86
+asp 76,test_164,O(C(=O)C=C)CC(NC(=O)C(N)CC(O)=O)C,7079.457844,3.85
+asp 77,test_165,O(C(=O)CCC)CC(NC(=O)C(N)CC(O)=O)C,3801.893963,3.58
+asp 78,test_166,O(C(=O)C(C)C)CC(NC(=O)C(N)CC(O)=O)C,9549.92586,3.98
+asp 79,test_167,O(C(=O)C(C)=C)CC(NC(=O)C(N)CC(O)=O)C,9772.37221,3.99
+asp 80,test_168,O(C(=O)C1CC1)CC(NC(=O)C(N)CC(O)=O)C,15135.61248,4.18
+asp 81,test_169,O(C(=O)CCCC)CC(NC(=O)C(N)CC(O)=O)C,398.1071706,2.6
+asp 82,test_170,O(C(=O)C(CC)C)CC(NC(=O)C(N)CC(O)=O)C,12022.64435,4.08
+asp 83,test_171,O(C(=O)CC(C)C)CC(NC(=O)C(N)CC(O)=O)C,12022.64435,4.08
+asp 84,test_172,O(C(=O)C(C)(C)C)CC(NC(=O)C(N)CC(O)=O)C,19054.60718,4.28
+asp 85,test_173,O(C(=O)C1CC1C)CC(NC(=O)C(N)CC(O)=O)C,4786.300923,3.68
+asp 86,test_174,O(C(=O)C1CCC1)CC(NC(=O)C(N)CC(O)=O)C,17378.00829,4.24
+asp 87,test_175,O(C(=O)C(CC)CC)CC(NC(=O)C(N)CC(O)=O)C,3388.441561,3.53
+asp 88,test_176,O(C(=O)C1CCC1C)CC(NC(=O)C(N)CC(O)=O)C,13489.62883,4.13
+asp 89,test_177,O(C(=O)C1CCCC1)CC(NC(=O)C(N)CC(O)=O)C,5011.872336,3.7
+asp 9,test_178,OC(=O)CC(N)C(=O)NC(CCCC)C,3981.071706,3.6
+asp 90,test_179,O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)CO,1698.243652,3.23
+asp 91,test_180,O(C(=O)CC)CC(NC(=O)C(N)CC(O)=O)CO,9772.37221,3.99
+asp 92,test_181,O(C(=O)C1CC1)CC(NC(=O)C(N)CC(O)=O)CO,9120.108394,3.96
+asp 93,test_182,O(C(=O)C(C)C)CC(NC(=O)C(N)CC(O)=O)CO,3019.95172,3.48
+asp 94,test_183,O(C(=O)CCC)CC(NC(=O)C(N)CC(O)=O)CO,380.1893963,2.58
+asp 95,test_184,O(C(=O)C1CCC1)CC(NC(=O)C(N)CC(O)=O)CO,5128.61384,3.71
+asp 96,test_185,O(C(=O)CC(C)C)CC(NC(=O)C(N)CC(O)=O)CO,1995.262315,3.3
+asp 97,test_186,O(C(=O)C(CC)C)CC(NC(=O)C(N)CC(O)=O)CO,1621.810097,3.21
+asp 98,test_187,O(C(=O)C1CCCC1)CC(NC(=O)C(N)CC(O)=O)CO,831.7637711,2.92
+asp 99,test_188,O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)CC,1445.439771,3.16
+aspartame-acesulfame salt,test_189,S1(OC(=CC(=O)N1)C)(=O)=O.O(C(=O)C(NC(=O)C(N)CC(O)=O)Cc1ccccc1)C,35000,4.54
+baiyunoside,test_190,O1[C@@H](OC2CC[C@@]3([C@H](CCC(C)=C3CCc3ccoc3)C2(C)C)C)C(O[C@@H]2OCC(O)C(O)C2O)C(O)C(O)C1CO,50000,4.7
+benzenepropanoic acid,test_191,Brc1c(CCC(O)=O)c(Br)cc(Br)c1C(=O)N,400000,5.6
+bernardame,test_192,OC(=O)CN/C(=N/c1ccc(cc1)C#N)/NCc1cc(ccc1)C,20000000,7.3
+calcium cyclamate,test_193,[CaH2].S(O)(=O)(=O)NC1CCCCC1.S(O)(=O)(=O)NC1CCCCC1,3333.33,3.52
+calcium saccharin,test_194,[CaH2].S1(=O)(=O)NC(=O)c2c1cccc2.S1(=O)(=O)NC(=O)c2c1cccc2,50000,4.7
+cyclamate,test_195,S(O)(=O)(=O)NC1CCCCC1,3000,3.48
+cyclocarioside A,test_196,O1C(COC(=O)C)C(O)C(O)C1OC1CC[C@]2(C(CC[C@@]3(C2CC(OC2OC(C)C(O)C(O)C2O)C2[C@@]3(CCC2[C@@]2(OC(CC2)C(O)(C)C)C)C)C)C1(C)C)C,20000,4.3
+disodium glycyrrhizinate,test_197,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)[O-])O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)[O-])O)O)O)C)(C)C(=O)[O-].[Na+].[Na+] ,20000,4.3
+dulcin,test_198,O(CC)c1ccc(NC(=O)N)cc1,20000,4.3
+dulcoside A,test_199,O1C(C)C(O)C(O)C(O)C1OC1C(O)C(O)C(OC1O[C@@]12CCC3[C@](CC1=C)(C2)CCC1[C@@](CCC[C@]13C)(C(OC1OC(CO)C(O)C(O)C1O)=O)C)CO,8500,3.93
+erythritol,test_200,OC(C(O)CO)CO,63.25,1.8
+fucose,test_201,OC(C(O)C(O)C)C(O)C=O,69,1.84
+galactitol,test_202,OC(C(O)C(O)CO)C(O)CO,58,1.76
+galactose,test_203,OC(C(O)C(O)C=O)C(O)CO,65,1.81
+gaudichaudioside A,test_204,O1CC(O)C(O)C(O)C1OC1CC(C=O)=C(CC\C(=C\CO)\C)[C@]2(C1[C@](CCC2)(CO)C)C,5500,3.74
+glycyrrhizin,test_205,O1[C@@H](OC2CC[C@@]3([C@@H]4[C@@](CC[C@H]3C2(C)C)(C)[C@]2(CC[C@]3([C@H](C2=CC4=O)C[C@](CC3)(C(O)=O)C)C)C)C)C(O[C@@H]2OC(C(O)=O)C(O)C(O)C2O)C(O)C(O)C1C(O)=O,9062.5,3.96
+hematoxylin,test_206,O1c2c([C@H]3c4cc(O)c(O)cc4C[C@]3(O)C1)ccc(O)c2O,12000,4.08
+hesperinin glucoside DHC,test_207,O1C(CO)C(O)C(O)C(O)C1Oc1cc(O)c(C(=O)CCc2cc(O)c(OC)cc2)c(O)c1,10000,4
+homoeohesperidin DHC,test_208,O1C(CO)C(O)C(O)C(O[C@H]2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2cc(O)c(OCC)cc2)c(O)c1,100000,5
+isomalt,test_209,O1C(CO)C(O)C(O)C(O)C1OCC(O)C(O)C(O)C(O)CO,53.75,1.73
+isomaltulose,test_210,O1C(CO)C(O)C(O)C(O)C1OCC(O)C(O)C(O)C(=O)CO,47.5,1.68
+isovanillic 1,test_211,O1CC(Cc2c1cccc2)c1cc(O)c(OC)cc1,20000,4.3
+isovanillic 10,test_212,S1c2c(CCC1c1cc(O)c(OC)cc1)cccc2,20000,4.3
+isovanillic 11,test_213,S1Cc2c(SC1c1cc(O)c(OC)cc1)cccc2,1000000,6
+isovanillic 12,test_214,S1c2c(SCC1c1cc(O)c(OC)cc1)cccc2,45000,4.65
+isovanillic 15,test_215,S1c2c(COC1c1cc(O)c(O)cc1)cccc2,20000,4.3
+isovanillic 16,test_216,S1c2c(COC1c1cc(O)ccc1)cccc2,10000,4
+isovanillic 17,test_217,S1(=O)(=O)CC(Oc2c1cccc2)c1cc(O)c(OC)cc1,5000,3.7
+isovanillic 18,test_218,O(C)c1ccc(cc1O)C(Oc1ccccc1)O,15000,4.18
+isovanillic 19,test_219,S1CC(Oc2c1cc(O)cc2)c1cc(O)c(OC)cc1,50000,4.7
+isovanillic 2,test_220,O1Cc2c(CC1c1cc(O)c(OC)cc1)cccc2,35000,4.54
+isovanillic 20,test_221,O(C)c1ccc(cc1O)CCC(=O)c1c(O)cc(O)cc1O,66500,4.82
+isovanillic 21,test_222,O(C)c1ccc(cc1O)CCC(=O)c1cc(ccc1)C(O)=O,8000,3.9
+isovanillic 22,test_223,S1c2c(SC1c1cc(O)c(OC)cc1)cccc2,20000,4.3
+isovanillic 23,test_224,S1c2c(OC1c1cc(O)c(OC)cc1)cccc2,30000,4.48
+isovanillic 24,test_225,O1c2cc(O)c(O)cc2C2c3c(OC[C@@]12O)c(O)c(O)cc3,12000,4.08
+isovanillic 25,test_226,O1c2cc(OC)ccc2C2c3c(OC[C@@]12O)cccc3,10000,4
+isovanillic 26,test_227,O(C)c1cc2CCC3C4CCC[C@]4(CCC3c2cc1O)C,5000,3.7
+isovanillic 3,test_228,O1c2c(CCC1c1cc(O)c(OC)cc1)cccc2,35000,4.54
+isovanillic 4,test_229,O1c2c(OCC1c1cc(O)c(OC)cc1)cccc2,45000,4.65
+isovanillic 6,test_230,S1Cc2c(OC1c1cc(O)c(OC)cc1)cccc2,50000,4.7
+isovanillic 7,test_231,S1CC(Oc2c1cccc2)c1cc(O)c(OC)cc1,25000,4.4
+isovanillic 9,test_232,S1c2c(OCC1c1cc(O)c(OC)cc1)cccc2,200000,5.3
+lactitol,test_233,O1C(CO)C(O)C(O)C(O)C1O[C@@H](C(O)C(O)CO)C(O)CO,35,1.54
+lactose,test_234,O1C(CO)C(O)C(O)C(O)C1O[C@@H](C(O)C(O)C=O)C(O)CO,25,1.4
+lactulose,test_235,O1C(CO)C(O)C(O)C(O)C1O[C@@H](C(O)C(=O)CO)C(O)CO,50,1.7
+leucrose,test_236,O1C(CO)C(O)C(O)C(O)C1OC(C(O)C(O)C(=O)CO)CO,50,1.7
+lugduname,test_237,O1c2c(OC1)cccc2C\N=C(\Nc1ccc(cc1)C#N)/NCC(O)=O,22500000,7.35
+mannose,test_238,O1C(CO)C(O)C(O)C(O)C1O,52.5,1.72
+mogroside II,test_239,O1C(CO)C(O)C(O)C(O)C1OC(C(O)(C)C)CCC(C)[C@H]1CC[C@]2([C@@H]3CC=C4[C@H](CCC(O[C@H]5OC(CO)C(O)C(O)C5O)C4(C)C)[C@]3(C)C(O)C[C@@]12C)C,8400,3.92
+mogroside IV,test_240,CC(CCC(C(C)(C)O)OC1C(C(C(C(O1)CO)O)O)OC2C(C(C(C(O2)CO)O)O)O)C3CCC4(C3(CC(C5(C4CC=C6C5CCC(C6(C)C)OC7C(C(C(C(O7)COC8C(C(C(C(O8)CO)O)O)O)O)O)O)C)O)C)C  ,31250,4.49
+mogroside V,test_241,C[C@H](CC[C@H](C(C)(C)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)[C@H]4CC[C@@]5([C@@]4(C[C@H]([C@@]6([C@H]5CC=C7[C@H]6CC[C@@H](C7(C)C)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O)O)O)O)C)O)C)C,33750,4.53
+naringin DHC,test_242,O1C(CO)C(O)C(O)C(OC2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2ccc(O)cc2)c(O)c1,10000,4
+neoeriocitrin DHC,test_243,O1C(CO)C(O)C(O)C(O[C@H]2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2cc(O)c(O)cc2)c(O)c1,10000,4
+neohesperidin DHC,test_244,O1C(CO)C(O)C(O)C(O[C@H]2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2cc(O)c(OC)cc2)c(O)c1,110000,5.04
+neotame,test_245,O(C(=O)C(NC(=O)C(NCCC(C)(C)C)CC(O)=O)Cc1ccccc1)C,777800,5.89
+osladin,test_246,O1C(CO)C(O)C(O)C(OC2OC(C)C(O)C(O)C2O)C1OC1CC2[C@@](C3C(CC2=O)C2CCC(C(C)C4OC(OC5OC(C)C(O)C(O)C5O)C(CC4)C)[C@@]2(CC3)C)(CC1)C,45000,4.65
+pentadin,test_247,Cl\C(=C(/Cl)\C(\Cl)=C(\Cl)/Cl)\C(O)=O.[NaH],50000,4.7
+phyllodulcin_1,test_248,O1C(Cc2c(C1=O)c(O)ccc2)c1cc(O)c(OC)cc1,70000,4.85
+phyllodulcin_11,test_249,O(C)c1ccc(NCc2ccccc2)cc1O,25000,4.4
+phyllodulcin_2,test_250,O1C(Cc2c(cccc2)C1=O)c1cc(O)c(OC)cc1,10000,4
+phyllodulcin_4,test_251,O1c2c(C(=O)CC1c1cc(O)c(OC)cc1)c(O)ccc2,35000,4.54
+phyllodulcin_5,test_252,O1c2c(C(=O)CC1c1cc(O)c(OCC)cc1)c(O)ccc2,15000,4.18
+phyllodulcin_6,test_253,O1C(Oc2c(cccc2)C1=O)c1cc(O)c(OC)cc1,10000,4
+phyllodulcin_7,test_254,S1c2c(cccc2)C(OC1c1cc(O)c(OC)cc1)=O,30000,4.48
+phyllodulcin_8,test_255,O(C)c1ccc(cc1O)CCc1ccccc1,30000,4.48
+polypodoside A,test_256,O1[C@H](OC2CC[C@]3([C@H](C2)C(=O)C=C2[C@H]4CC[C@H](C(C)[C@@H]5OC(O[C@H]6OC(C)C(O)C(O)C6O)C(CC5)C)[C@@]4(CC[C@H]23)C)C)C(O[C@H]2OC(C)C(O)C(O)C2O)C(O)C(O)C1CO,60000,4.78
+potassium glycyrrhizinate,test_257,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C(C5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)[O-].[K+],50000,4.7
+potassium saccharin,test_258,[KH].S1(=O)(=O)NC(=O)c2c1cccc2,50000,4.7
+prunin DHC,test_259,O1C(CO)C(O)C(O)C(O)C1Oc1cc(O)c(C(=O)CCc2ccc(O)cc2)c(O)c1,4000,3.6
+psicose,test_260,O1CC(O)C(O)C(O)[C@]1(O)CO,70,1.85
+pterocaryoside A,test_261,O1[C@@H](OC2[C@@H]3[C@](CC[C@H]3[C@](O)(C\C=C\C(O)(C)C)C)(C)[C@]3([C@H](C2)[C@@](CCC(O)=O)(C)C(CC3)C(C)=C)C)C(O)C(O)C(O)C1C,6250,3.8
+pterocaryoside B,test_262,O1CC(O)C(O)C(O)[C@@H]1OC1[C@@H]2[C@@](CC[C@@H]2[C@@](O)(C\C=C\C(O)(C)C)C)(C)[C@]2([C@@H](C1)[C@@](CCC(O)=O)(C)C(CC2)C(C)=C)C,7500,3.88
+raffinose,test_263,O1C(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C(O)C1O[C@@]1(OC(CO)C(O)C1O)CO,25,1.4
+rebaudioside A,test_264,C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O ,29600,4.47
+rebaudioside B,test_265,O1[C@H](OC2C(O)C(O[C@@H](O[C@]34CC[C@H]5[C@@](CC3=C)(C4)CC[C@@H]3[C@](CCC[C@]35C)(C(O)=O)C)C2O[C@H]2OC(CO)C(O)C(O)C2O)CO)C(O)C(O)C(O)C1CO,32500,4.51
+rebaudioside C,test_266,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2O[C@@]34CC[C@H]5[C@@]6(CCC[C@@]([C@H]6CC[C@]5(C3)CC4=C)(C)C(=O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)C)CO)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O)O)O,8500,3.93
+rebaudioside D,test_267,C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O,32500,4.51
+rebaudioside E,test_268,O1C(CO)C(O)C(O)C(O)C1OC1C(O)C(O)C(OC1O[C@]12CCC3[C@](CC1=C)(C2)CCC1[C@](CCC[C@]13C)(C(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(O)C1O)=O)C)CO,22500,4.35
+rebaudioside F,test_269,O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@]1([C@@H]2CC[C@@]34[C@@H](CC[C@@](O[C@H]5OC(CO)C(O)C(O[C@H]6OC(CO)C(O)C(O)C6O)C5O[C@H]5OCC(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC1)C),11250,4.05
+rhamnose,test_270,O1C(C)C(O)C(O)C(O)C1O,31.65,1.5
+rubusoside,test_271,O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@@]1([C@@H]2CC[C@]34[C@@H](CC[C@@](O[C@@H]5OC(CO)C(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC1)C)C,11400,4.06
+saccharin,test_272,S1(=O)(=O)NC(=O)c2c1cccc2,37500,4.57
+selligueain A,test_273,O1c2c(CC(O)C1c1ccc(O)cc1)c(O)cc(O)c2C1c2c(OC(C1O)c1ccc(O)cc1)c1[C@@H]3c4c(O[C@@](Oc1cc2O)([C@H]3O)c1ccc(O)cc1)cc(O)cc4O,3500,3.54
+siamenoside I,test_274,C[C@H](CC[C@H](C(C)(C)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)[C@H]4CC[C@@]5([C@@]4(C[C@H]([C@@]6([C@H]5CC=C7[C@H]6CC[C@@H](C7(C)C)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)C)O)C)C,56000,4.75
+sodium cyclamate,test_275,S(O)(=O)(=O)NC1CCCCC1.[NaH],2933.33,3.47
+sodium saccharin,test_276,S1(=O)(=O)NC(=O)c2c1cccc2.[NaH],30000,4.48
+stachyose,test_277,O1C(COC2OC(COC3OC(CO)C(O)C(O)C3O)C(O)C(O)C2O)C(O)C(O)C(O)C1O[C@@]1(OC(CO)C(O)C1O)CO,22,1.34
+steviolbioside,test_278,O1[C@@H](OC2[C@H](OC(CO)C(O)C2O)O[C@@]23CC[C@@H]4[C@@](CC2=C)(C3)CC[C@H]2[C@@](CCC[C@]24C)(C(O)=O)C)C(O)C(O)C(O)C1CO,11250,4.05
+stevioside,test_279,O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@@]1([C@@H]2CC[C@]34[C@H](CC[C@@](O[C@@H]5OC(CO)C(O)C(O)C5O[C@H]5OC(CO)C(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC1)C)C,18666.67,4.27
+sucrononic acid,test_280,OC(=O)CN/C(=N\c1ccc(cc1)C#N)/NC1CCCCCCCC1,20000000,7.3
+sucrose,test_281,O1C(CO)C(O)C(O)C(O)C1O[C@@]1(OC(CO)C(O)C1O)CO,100,2
+suosan,test_282,[NaH].OC(=O)CCNC(=O)Nc1ccc([N+](=O)[O-])cc1,35000,4.54
+superaspartame,test_283,O(C(=O)C(NC(=O)C(NC(=O)Nc1ccc(cc1)C#N)CC(O)=O)Cc1ccccc1)C,1400000,6.15
+taxifolin 3-acetate,test_284,O1c2c(C(=O)C(OC(=O)C)C1c1cc(O)c(O)cc1)c(O)cc(O)c2,8000,3.9
+trans-anethole,test_285,O(C)c1ccc(cc1)\C=C\C,1300,3.11
+trans-cinnamaldehyde,test_286,O=C\C=C\c1ccccc1,5000,3.7
+trehalose,test_287,O1C(CO)C(O)C(O)C(O)C1O[C@H]1OC(CO)C(O)C(O)C1O,42.5,1.63
+tripotassium glycyrrhizinate,test_288,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)[O-])O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)[O-])O)O)O)C)(C)C(=O)[O-].[K+].[K+].[K+],15000,4.18
+tryptophan,test_289,OC(=O)C(N)Cc1c2c([nH]c1)cccc2,3500,3.54
+xylitol,test_290,OC(C(O)CO)C(O)CO,96.75,1.99
+xylobiose,test_291,O1CC(O)C(O)C(O)C1OC1COC(O)C(O)C1O,40,1.6
+4-HydroxyglycosidesDHC,test_292,O1C(CO)C(O)C(O)C(OC2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2cc(O)c(O)cc2)c(O)c1,10000,4
+Alitame,test_293,S1C(C)(C)C(NC(=O)C(NC(=O)C(N)CC(O)=O)C)C1(C)C.S1C(C)(C)C(NC(=O)C(NC(=O)C(N)CC(O)=O)C)C1(C)C.O.O.O.O.O,208333.33,5.318758756
+D-trehalose,test_294,O1C(CO)C(O)C(O)C(O)C1OC1OC(CO)C(O)C(O)C1O,45,1.653212514
+Disodiumglycyrrhizinate,test_295,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)[O-])O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)[O-])O)O)O)C)(C)C(=O)[O-].[Na+].[Na+] C(O)C1C(O)=O,20000,4.301029996
+Hernandulcin,test_296,O=C1C=C(CC[C@@H]1[C@@](O)(CC\C=C(\C)/C)C)C,100000,5
+Lactulose,test_297,O1C(CO)C(O)C(O)C(O)C1OC1C(O)[C@@](OC1CO)(O)CO,57,1.755874856
+Perillartine,test_298,O\N=C\C=1CCC(CC=1)C(C)=C,200000,5.301029996
+PolypodosidesA,test_299,O1C(CO)C(O)C(O)C(OC2OC(C)C(O)C(O)C2O)C1OC1CC2[C@@](C3C(CC2=O)C2CCC(C(C)C4OC(OC5OC(C)C(O)C(O)C5O)C(CC4)C)[C@]2(CC3)C)(CC1)C,60000,4.77815125
+Potassiumglycyrrhizinate,test_300,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C(C5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)[O-].[K+],50000,4.698970004
+Rubusoside,test_301,O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@]1([C@@H]2CC[C@@]34[C@@H](CC[C@@](O[C@@H]5OC(CO)C(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC1)C)C,11400,4.056904851
+SiamenosideI,test_302,O1C(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C(O[C@H]2OC(CO)C(O)C(O)C2O)C1OC(C(O)(C)C)CCC(C)[C@@H]1CC[C@@]2([C@@H]3CC=C4[C@@H](CCC(O[C@H]5OC(CO)C(O)C(O)C5O)C4(C)C)[C@]3(C)C(O)C[C@@]12C)C,56000,4.748188027
+Tripotassiumglycyrrhizinate,test_303,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)[O-])O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)[O-])O)O)O)C)(C)C(=O)[O-].[K+].[K+].[K+],15000,4.176091259
+baiyunoside,test_304,O1[C@H](OC2CC[C@@]3([C@H](CCC(C)=C3CCc3ccoc3)C2(C)C)C)C(O[C@@H]2OCC(O)C(O)C2O)C(O)C(O)C1CO,50000,4.698970004
+dulcosideA,test_305,O1C(C)C(O)C(O)C(O)C1OC1C(O)C(O)C(OC1O[C@]12CCC3[C@](CC1=C)(C2)CCC1[C@@](CCC[C@]13C)(C(OC1OC(CO)C(O)C(O)C1O)=O)C)CO,8750,3.942008053
+glycyrrhizin,test_306,O1[C@@H](OC2CC[C@@]3([C@H]4[C@](CC[C@H]3C2(C)C)(C)[C@@]2(CC[C@@]3([C@@H](C2=CC4=O)C[C@](CC3)(C(O)=O)C)C)C)C)C(O[C@@H]2OC(C(O)=O)C(O)C(O)C2O)C(O)C(O)C1C(O)=O,20500,4.311753861
+isomaltulose,test_307,O1C(CO)C(O)C(O)C(O)C1OCC1O[C@](O)(CO)C(O)C1O,43.1,1.63447727
+lactitol,test_308,O1C(CO)C(O)C(O)C(O)C1OC(C(O)C(O)CO)C(O)CO,35,1.544068044
+mogrosideII,test_309,O1C(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C(O[C@@H]2OC(CO)C(O)C(O)C2O)C1OC(C(O)(C)C)CCC(C)[C@@H]1CC[C@]2([C@H]3CC=C4[C@H](CCC(O[C@H]5OC(COC6OC(CO)C(O)C(O)C6O)C(O)C(O)C5O)C4(C)C)[C@]3(C)C(=O)C[C@@]12C)C,8400,3.924279286
+mogrosideIV,test_310,O1C(CO)C(O)C(O)C(O)C1OCC1OC(OC(C(O)(C)C)CCC(C)[C@H]2CC[C@@]3([C@@H]4CC=C5[C@@H](CCC(O[C@@H]6OC(COC7OC(CO)C(O)C(O)C7O)C(O)C(O)C6O)C5(C)C)[C@@]4(C)C(O)C[C@]23C)C)C(O)C(O)C1O,12500,4.096910013
+mogrosideV,test_311,O1C(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C(O[C@H]2OC(CO)C(O)C(O)C2O)C1OC(C(O)(C)C)CCC(C)[C@@H]1CC[C@@]2([C@@H]3CC=C4[C@H](CCC(O[C@@H]5OC(COC6OC(CO)C(O)C(O)C6O)C(O)C(O)C5O)C4(C)C)[C@@]3(C)C(O)C[C@]12C)C,30000,4.477121255
+osladin,test_312,O1C(CO)C(O)C(O)C(OC2OC(C)C(O)C(O)C2O)C1OC1CC2[C@](C3C(CC2=O)C2CCC(C(C)C4OC(OC5OC(C)C(O)C(O)C5O)C(CC4)C)[C@@]2(CC3)C)(CC1)C,300000,5.477121255
+rebaudiosideA,test_313,C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O,22500,4.352182518
+rebaudiosideB,test_314,O1[C@H](OC2C(O)C(O[C@H](O[C@]34CC[C@@H]5[C@](CC3=C)(C4)CC[C@H]3[C@@](CCC[C@@]35C)(C(O)=O)C)C2O[C@H]2OC(CO)C(O)C(O)C2O)CO)C(O)C(O)C(O)C1CO,32500,4.511883361
+rebaudiosideC,test_315,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2O[C@@]34CC[C@H]5[C@@]6(CCC[C@@]([C@H]6CC[C@]5(C3)CC4=C)(C)C(=O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)C)CO)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O)O)O,8500,3.929418926
+rebaudiosideD,test_316,C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O,8500,3.929418926
+rebaudiosideE,test_317,O1C(CO)C(O)C(O)C(O)C1OC1C(O)C(O)C(OC1O[C@]12CCC3[C@](CC1=C)(C2)CCC1[C@@](CCC[C@@]13C)(C(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(O)C1O)=O)C)CO,12500,4.096910013
+rebaudiosideF,test_318,O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@]1([C@@H]2CC[C@@]34[C@@H](CC[C@@](O[C@H]5OC(CO)C(O)C(O[C@H]6OC(CO)C(O)C(O)C6O)C5O[C@H]5OCC(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC1)C)C,11250,4.051152522
+steviolbioside,test_319,O1[C@@H](OC2[C@H](OC(CO)C(O)C2O)O[C@@]23CC[C@H]4[C@@](CC2=C)(C3)CC[C@@H]2[C@](CCC[C@]24C)(C(O)=O)C)C(O)C(O)C(O)C1CO,11250,4.051152522
+stevioside,test_320,O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@@]1([C@H]2CC[C@]34[C@H](CC[C@](O[C@H]5OC(CO)C(O)C(O)C5O[C@H]5OC(CO)C(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC1)C)C,18500,4.267171728
+?-D-lactose,test_321,O1C(CO)C(O)C(O)C(O)C1OC1C(O)C(O)C(OC1CO)O,36.46,1.561816664
+?-D-fructose,test_322,O1[C@](O)(CO)C(O)C(O)C1CO,147.56,2.168968647
+,test_323,CC1=CC(=O)[C@@H](CC1)C(O)(C)CC\C=C(/C)C,1500,3.176091259
+,test_324,O=CC1C=2CC(O[C@@H]3OC[C@H](O)C(O)C3O)C3[C@](C)(CCC[C@]3(C)CO)C=2CC\C1=C\CO,55,1.740362689
+,test_325,O=C(O)C[C@@H]1C=C2[C@H]3CCC4[C@@](C)(CCC5[C@@H](C)[C@H](CCC45C=O)OOC(=O)C4(C)CC=C5C6CCC7C(C)(CCC8C7(C=O)CCC(OC7OC(C(=O)O)C(O)C(O)C7OC7OCC(O)C(O)C7O)C8(C)C)C6(C)CCC5(C)C4)C3(C)CC[C@@]2(C)CC1,220,2.342422681
+,test_326,O=C(O)C1(C)C=C2C3CCC4C(C)(CCC5C4(C=O)CCC(OC4OC(C(=O)O)C(O)C(O)C4OC4OC(C(O)C(O)C4O)C(=O)OO[C@H]4CCC6(C=O)C7CC[C@@H]8C9=C[C@@H](CC(=O)O)CC[C@]9(C)CCC8(C)[C@]7(C)CCC6[C@H]4C)C5(C)C)C3(C)CCC2(C)CC1,90,1.954242509
+,test_327,CC1=CC[C@@H](OC1=O)[C@@H](C)C1CCC2[C@@H]3CCC4[C@]5(C[C@@]35CC[C@]12C)CC[C@H](OOC[C@H]1O[C@@H](O)[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@H]1O)[C@@]4(C)C(=O)O,30,1.477121255
+,test_328,CC1=CC[C@@H](OC1=O)[C@@H](C)C1CCC2[C@@H]3CCC4[C@@](C)([C@@H](O[C@@H]5O[C@@H]([C@@H](O)[C@H](O)[C@H]5OC5C[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)C(=O)OC)CC[C@@]44C[C@@]34CC[C@]12C)C(=O)O,100,2
+,test_329,CC1=CC[C@@H](OC1=O)[C@@H](C)C1CCC2[C@@H]3CC[C@H]4[C@@](C)([C@@H](O[C@@H]5O[C@H](COO)[C@@H](O)[C@H](O)[C@H]5O[C@@H]5C[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)CC[C@@]44C[C@@]34CC[C@]12C)C(=O)O,50,1.698970004
+,test_330,O=C(O)[C@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](O)[C@@H](COO)O[C@H]2O[C@H]2CC[C@@]34C[C@@]54CC[C@]4(C)C(CCC4[C@@H]5CC[C@H]3[C@]2(C)C(=O)O)[C@H](C)[C@H]2CC=C(C)C(=O)O2)[C@H](O)[C@@H](O)[C@@H]1O,75,1.875061263
+,test_331,OC1=CC[C@@H](OC1=O)[C@@H](C)C1CCC2[C@@H]3CCC4[C@]5(C[C@@]35CC[C@]12C)CC[C@H](OO[C@@H]1O[C@H](C)[C@@H](O[C@@H]2O[C@H](C(=O)O)[C@@H](O)[C@H](O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)[C@H]2O)[C@H](O)[C@H]1O)[C@@]4(O)C(=O)O,150,2.176091259
+,test_332,CC.CC(C)(O)/C=C/C[C@](C)(O)C1CCC2(C)C1[C@@H](CC1[C@@](C)(CCC(=O)O)C(CC[C@]12C)C(=C)C)OCC(=C)C1C[C@H]2C[C@@H](O[C@@H]3O[C@H](C)[C@@H](O)[C@H](O)[C@H]3O)[C@@H]3[C@H](CC[C@@]3(C)[C@]2(C)CC1)[C@@](C)(O)C\C=C\O,50,1.698970004
+,test_333,C.CC(C)(O)/C=C/C[C@](C)(O)C1CCC2(C)C1[C@@H](CC1[C@@](C)(CCC(=O)O)C(CC[C@]12C)C(=C)C)OCC(=C)[C@@H]1CC[C@]2(C)[C@H](C[C@@H](O[C@@H]3OC[C@H](O)[C@H](O)[C@H]3O)[C@@H]3[C@H](CCC[C@]32C)[C@@](C)(O)C/C=C/C(C)(C)O)[C@@]1(C)CCC(=O)O,100,2
+,test_334,CC(=O)OC1C(=O)c2c(cc(O)cc2O)OC1c1ccc(O)c(O)c1,80,1.903089987
+,test_335,CC(=O)OC1C(=O)c2c(cc(O)cc2O)OC1c1ccc(OC)c(O)c1,400,2.602059991
+,test_336,CC(=O)OC1C(=O)c2c(O)c(OC)c(O)cc2OC1c1ccc(O)c(O)c1,25,1.397940009
+,test_337,CC(=O)OC1C(=O)c2c(O)c(OC)c(O)cc2OC1c1ccc(O)cc1,15,1.176091259
+,test_338,Oc1ccc(cc1O)C1CC(=O)c2c(O)c(OC)c(O)cc2O1,20,1.301029996
+,test_339,Oc1ccc(cc1)C1Oc2c(C[C@@H]1O)c(O)cc(O)c2C1c2c(O)cc3O[C@@]4(Oc5cc(O)cc(O)c5[C@H](c3c2O[C@H](c2ccc(O)cc2)[C@@H]1O)C4O)c1ccc(O)cc1,35,1.544068044
+sodium propylsulfamate,test_340,CCCNS(=O)(=O)O[Na],0.630957344,-0.2
+sodium butylsulfamate,test_341,O=S(=O)(NCCCC)O[Na],3.467368505,0.54
+sodium (2-methylpropyl)sulfamate,test_342,CC(C)CNS(=O)(=O)O[Na],2.884031503,0.46
+sodium (3-methylbutyl)sulfamate,test_343,O=S(=O)(NCCC(C)C)O[Na],6.760829754,0.83
+sodium (2-methylbutyl)sulfamate,test_344,O=S(=O)(NCC(C)CC)O[Na],19.498446,1.29
+"sodium (2,2-dimethylpropyl)sulfamate",test_345,CC(C)(C)CNS(=O)(=O)O[Na],16.21810097,1.21
+sodium cyclopentylsulfamate,test_346,[Na]OS(=O)(=O)NC1CCCC1,10,1
+sodium cyclohexylsulfamate,test_347,O=S(=O)(O[Na])NC1CCCCC1,40.73802778,1.61
+sodium cycloheptylsulfamate,test_348,O=S(=O)(NC1CCCCCC1)O[Na],33.88441561,1.53
+sodium cyclooctylsulfamate,test_349,O=S(=O)(NC1CCCCCCC1)O[Na],27.54228703,1.44
+sodium bicyclo[2.2.1]heptan-2-ylsulfamate,test_350,O=S(=O)(NC1CC2CCC1C2)O[Na],70.79457844,1.85
+"sodium 1,3-thiazol-2-ylsulfamate",test_351,[Na]OS(=O)(=O)Nc1nccs1,8.7096359,0.94
+sodium (cyclopentylmethyl)sulfamate,test_352,O=S(=O)(O[Na])NCC1CCCC1,15.13561248,1.18
+,test_353,COc1ccc(cc1O)[C@H]1Cc2cccc(O)c2C(=O)O1,2.602,399.9447498
+,test_354,COc1ccc(cc1O)C1C(=C)c2ccccc2OC1=C,2.602,200
+,test_355,COc1ccc(cc1O)C1OC(=C)c2ccccc2C1=C,2.602,350
+,test_356,COc1ccc(cc1O)C1Oc2ccccc2C(=C)C1=C,2.602,350
+,test_357,COc1ccc(cc1O)C1Oc2ccccc2OC1=C,2.653212514,450
+,test_358,COc1ccc(cc1O)C1Oc2ccccc2C(=C)O1,3.477121255,3000
+,test_359,COc1ccc(cc1O)C1Oc2ccccc2C(=C)S1,2.698970004,500
+,test_360,COc1ccc(cc1O)C1Oc2ccccc2SC1=C,2.397940009,250
+,test_361,COc1ccc(cc1O)C1OC(=C)c2ccccc2S1,3.954242509,9000
+,test_362,COc1ccc(cc1O)C1Sc2ccccc2OC1=C,3.301029996,2000
+,test_363,COc1ccc(cc1O)C1Sc2ccccc2C(=C)C1=C,2.301029996,200
+,test_364,COc1ccc(cc1O)C1Sc2ccccc2C(=C)S1,4,10000
+,test_365,COc1ccc(cc1O)C1Sc2ccccc2SC1=C,2.653212514,450
+,test_366,COc1ccc(cc1O)C1Sc2ccccc2S1,2.301029996,200
+,test_367,COc1ccc(cc1O)C1Oc2ccccc2S1,2.477121255,300
+,test_368,COc1ccc(cc1S)C1OC(=C)c2ccccc2S1,1.698970004,50
+,test_369,Oc1ccc(cc1O)C1OC(=C)c2ccccc2S1,2.301029996,200
+,test_370,Oc1cccc(c1)C1OC(=C)c2ccccc2S1,2,100
+,test_371,O=[S+](=O)C1c2ccccc2OC(C1=C)c1ccc(OC)c(O)c1,1.698970004,50
+,test_372,COc1ccc(cc1O)C1Oc2ccccc2CO1,2.176091259,150
+,test_373,COc1ccc(cc1O)C1Oc2ccc(O)cc2SC1=C,2.698970004,500
+,test_374,[O-][N+](=O)c1ccc(cc1)NC(=O)Oc1cc(ccc1OC)C1OCc2ccccc2S1,3.041392685,1100
+,test_375,COc1ccc(cc1OC(=O)Nc1ccccc1)C1OCc2ccccc2S1,2.77815125,600
+,test_376,[O-][N+](=O)c1ccc(cc1)C(=O)Oc1cc(ccc1O)C1OCc2ccccc2S1,2.477121255,300
+,test_377,[O-][N+](=O)c1ccc(cc1)C(=O)COc1cccc(c1)C1OCc2ccccc2S1,2.477121255,300
+,test_378,[O-][N+](=O)c1ccc(cc1)NC(=O)Oc1cc(ccc1OC)C1Oc2ccccc2CO1,2.176091259,150
+,test_379,Oc1cc(ccc1OC)C(=O)c1ccccc1C(=O)O,2.397940009,250
+,test_380,COc1ccc(cc1)C(=O)c1ccccc1C(=O)O,2.176091259,150
+,test_381,Oc1ccc(cc1O)C(=O)c1ccccc1C(=O)O,2,100
+,test_382,O=S(c1ccc(OC)cc1)c1ccccc1C(=O)O,2.699837726,501
+,test_383,Oc1cc(ccc1OC)CCC(=O)c1c(O)cc(O)cc1O,2.822821645,665
+,test_384,Oc1cc(ccc1OC)CCC(=O)c1cccc(c1)C(=O)O,1.903089987,80
+,test_385,COc1ccc(cc1O)[C@@H]1Cc2cc(O)cc(O)c2C(=O)C1OC(C)=O,2.698970004,500
+,test_386,Oc1c2CC[C@]3(C)C(CC[C@]4(C)CCCC43)c2ccc1OC,1.698970004,50
+,test_387,COc1cc2CCC3(Sc4ccccc4CS3)c2cc1O,1.698970004,50
+,test_388,Oc1cc2C[C@@]3(O)COc4c(O)c(O)ccc4[C@H]3c2cc1O,2.079181246,120
+,test_389,COc1cc2C[C@@]3(O)COc4ccccc4[C@H]3c2cc1O,1.698970004,50
+,test_390,Oc1cc2CC3(O)COc4c(O)c(O)ccc4C3c2cc1O,1.698970004,50
+,test_391,Oc1cc(ccc1OC)OCc1ccccc1C(=O)O,1,10
+,test_392,Oc1cc(ccc1OC)CCc1ccccc1,2.477121255,300
+,test_393,COc1ccc(cc1)C(=O)\C=C/C(=O)O,1.698970004,50
+,test_394,OC1[C@@H](OC(CO)[C@H](O)C1O)O[C@]1(CO)O[C@H](CO)C(O)C1O,0.2,-0.698970004
+,test_395,OC1[C@@H](OC(CO)CC1O)O[C@]1(CO)O[C@H](CO)C(O)C1O,1,0
+,test_396,OC1[C@@H](OC(CO)CC1O)O[C@]1(CO)O[C@H](CO)C(Cl)C1O,2,0.301029996
+,test_397,OC1[C@@H](OC(CCl)[C@H](Cl)C1O)O[C@]1(CO)O[C@H](CCl)C(Cl)C1O,4,0.602059991
+,test_398,OC1[C@@H](OC(CO)[C@H](Cl)C1O)O[C@]1(CO)O[C@H](CO)C(O)C1O,5,0.698970004
+,test_399,OC1[C@@H](OC(CO)[C@H](O)C1O)O[C@]1(CO)O[C@H](CCl)C(Cl)C1O,5,0.698970004
+,test_400,OC1[C@@H](OC(CO)[C@H](O)C1O)O[C@]1(CCl)O[C@H](CCl)C(Cl)C1O,20,1.301029996
+,test_401,OC1[C@@H](OC(CO)[C@H](O)C1O)O[C@]1(CO)O[C@H](CCl)C(O)C1O,20,1.301029996
+,test_402,OC1[C@@H](OC(CCl)[C@H](O)C1O)O[C@]1(CCl)O[C@H](CCl)C(O)C1O,25,1.397940009
+,test_403,OC1[C@@H](OC(CO)[C@H](O)C1O)O[C@]1(CCl)O[C@H](CO)C(Cl)C1O,30,1.477121255
+,test_404,OC1[C@@H](OC(CO)[C@H](F)C1O)O[C@]1(CF)O[C@H](CF)C(O)C1O,40,1.602059991
+,test_405,OC1[C@@H](OC(CO)[C@H](Cl)C1O)O[C@]1(CO)O[C@H](CCl)C(O)C1O,50,1.698970004
+,test_406,OC1[C@@H](OC(CO)[C@H](O)C1O)O[C@]1(CCl)O[C@H](CCl)C(O)C1O,76,1.880813592
+,test_407,OC1[C@@H](OC(CO)[C@H](Cl)C1O)O[C@]1(CCl)O[C@H](CO)C(O)C1O,120,2.079181246
+,test_408,OC1[C@@H](OC(CO)[C@H](I)C1O)O[C@]1(CI)O[C@H](CO)C(O)C1O,120,2.079181246
+,test_409,OC1[C@@H](OC(CO)[C@H](Cl)C1O)O[C@]1(CCl)O[C@@H](CC1O)CCl,150,2.176091259
+,test_410,OC1[C@@H](OC(CO)[C@H](Cl)C1O)O[C@]1(CO)O[C@H](CCl)C(Cl)C1O,160,2.204119983
+,test_411,OC1[C@@H](OC(CCl)[C@H](Cl)C1O)O[C@]1(CCl)O[C@H](CCl)C(O)C1O,200,2.301029996
+,test_412,OC1[C@@H](OC(CO)[C@H](Cl)C1O)O[C@]1(CCl)O[C@H](CCl)C(Cl)C1O,200,2.301029996
+,test_413,OC1[C@@H](OC(CO)[C@H](Cl)C1O)O[C@]1(CCl)O[C@H](CO)C(Cl)C1O,220,2.342422681
+,test_414,OC1[C@@H](OC(CO)[C@H](Cl)C1O)O[C@]1(CCl)O[C@H](CCl)C(OC)C1O,300,2.477121255
+,test_415,OC1[C@@H](OC(CO)[C@H](Br)C1O)O[C@]1(CCl)O[C@H](CCl)C(O)C1O,375,2.574031268
+,test_416,OC1[C@@H](OC(C)[C@H](Cl)C1O)O[C@]1(CCl)O[C@H](CCl)C(O)C1O,400,2.602059991
+,test_417,OC1[C@@H](OC(COC)[C@H](Cl)C1O)O[C@]1(CCl)O[C@H](CCl)C(O)C1O,500,2.698970004
+,test_418,OC1[C@@H](OC(CO)[C@H](Cl)C1O)O[C@]1(CCl)O[C@H](CCl)C(O)C1O,650,2.812913357
+,test_419,OC1[C@@H](OC(CO)[C@H](Cl)C1O)O[C@]1(CBr)O[C@H](CBr)C(O)C1O,800,2.903089987
+,test_420,OC1[C@@H](OC(CO)[C@H](Br)C1O)O[C@]1(CBr)O[C@H](CBr)C(O)C1O,800,2.903089987
+,test_421,OC1[C@@H](OC(CO)[C@H](Cl)C1O)O[C@]1(CCl)O[C@H](CCl)C(F)C1O,1000,3
+,test_422,OC1[C@@H](OC(CO)[C@H](Cl)C1O)O[C@]1(CCl)O[C@H](CCl)C(Br)C1O,3000,3.477121255
+,test_423,OC1[C@@H](OC(CO)[C@H](Cl)C1O)O[C@]1(CCl)O[C@H](CCl)C(I)C1O,7500,3.875061263
+,test_424,OC1[C@@H](OC(CO)[C@H](Br)C1O)O[C@]1(CBr)O[C@H](CBr)C(Br)C1O,7500,3.875061263
+,test_425,OC1[C@@H](OC(CO)[C@@H](O)C1O)O[C@]1(CC(O)[C@@H](CO)O1)CO,1,0
+,test_426,OC1[C@@H](OC(CO)[C@@H](O)C1O)O[C@]1(CC(O)[C@@H](CO)O1)CCl,20,1.301029996
+,test_427,OC1[C@@H](OC(CO)[C@@H](O)C1O)O[C@]1(CC(O)[C@@H](CCl)O1)CO,20,1.301029996
+,test_428,OC1[C@@H](OC(CO)[C@@H](O)C1O)O[C@]1(CC(Cl)[C@@H](CO)O1)CCl,30,1.477121255
+,test_429,OC1[C@@H](OC(CO)[C@@H](O)C1O)O[C@]1(CC(O)[C@@H](CCl)O1)CCl,80,1.903089987
+,test_430,OC1[C@@H](OC(CO)[C@@H](O)C1O)O[C@]1(CC(O)[C@@H](CBr)O1)CBr,80,1.903089987
+,test_431,OC1[C@@H](OC(CO)[C@@H](O)C1O)O[C@]1(CC(Cl)[C@@H](CCl)O1)CCl,100,2
+,test_432,N#Cc1ccc(cc1)\N=C(/NCC(=O)O)NC1CCCCCCCC1,200000,5.301029996
+,test_433,N#Cc1ccc(cc1)\N=C(\NC1CCCCCCC1)NCC(=O)O,170000,5.230448921
+,test_434,N#Cc1ccc(cc1)\N=C(/NCC(=O)O)NC1CCCCCCCCC1,150000,5.176091259
+,test_435,O=C(O)CNC(\NC(c1ccccc1)c1ccccc1)=N/c1ccc(cc1)C#N,150000,5.176091259
+,test_436,N#Cc1ccc(cc1)/N=C(/NC1CCCCCC1)NCC(=O)O,60000,4.77815125
+,test_437,N#Cc1ccc(cc1)\N=C(/NCC(=O)O)Nc1ccc2ccccc2c1,60000,4.77815125
+,test_438,N#Cc1ccc(cc1)\N=C(\NSC(C)C1CCCCC1)NCC(=O)O,50000,4.698970004
+,test_439,N#Cc1ccc(cc1)/N=C(/NCC1CCCCC1)NCC(=O)O,35000,4.544068044
+,test_440,O=C(O)CN\C(=N/c1ccc(cc1)C#N)NCc1ccccc1,30000,4.477121255
+,test_441,O=C(O)CNC(\NSC(C)c1ccccc1)=N/c1ccc(cc1)C#N,28000,4.447158031
+,test_442,N#Cc1ccc(cc1)\N=C(\NCC(=O)O)NCC12CC3CC(C1)C(C3)C2,23000,4.361727836
+,test_443,N#Cc1ccc(cc1)/N=C(/NN(C)c1ccccc1)NCC(=O)O,18000,4.255272505
+,test_444,N#Cc1ccc(cc1)/N=C(\NCC(=O)O)NC1CCCCC1,12000,4.079181246
+,test_445,Clc1cc(N/C(=N/c2ccc(C#N)cc2)NCC(=O)O)ccc1,10000,4
+,test_446,O=C(O)CNC(\NC(C)c1ccccc1)=N/c1ccc(cc1)C#N,9000,3.954242509
+,test_447,N#Cc1ccc(cc1)/N=C(\NCC(=O)O)Nc1cc(C)ccc1,9000,3.954242509
+,test_448,O=C(O)CNC(\NCCc1ccccc1)=N/c1ccc(cc1)C#N,8500,3.929418926
+,test_449,N#Cc1ccc(cc1)/N=C(\NCC(=O)O)Nc1ccc(C)cc1,7000,3.84509804
+,test_450,O=C(O)CNC(\NCCCCCC)=N/c1ccc(cc1)C#N,6000,3.77815125
+,test_451,N#Cc1ccc(cc1)/N=C(\NCC(=O)O)Nc1ccccc1C,5000,3.698970004
+,test_452,N#Cc1ccc(cc1)\N=C(\NCC(=O)O)NC1CCc2ccccc21,5000,3.698970004
+,test_453,N#Cc1ccc(cc1)\N=C(\NCC(=O)O)NC12CC3CC(CC3C1)C2,3500,3.544068044
+,test_454,O=C(O)CNC(\N)=N/c1ccc(cc1)C#N,2700,3.431363764
+,test_455,O=C(O)CN\C(=N/c1ccc(cc1)C#N)NCC,350,2.544068044
+,test_456,O=NOc1ccc(cc1)\N=C(/NCC(=O)O)N[C@H](C)c1ccccc1,7000,3.84509804
+,test_457,O=C(O)CNC(\N[C@H](C)c1ccccc1)=N/c1ccccc1,5000,3.698970004
+,test_458,Brc1cc(/N=C(\NCC(=O)O)N[C@H](C)c2ccccc2)ccc1,25000,4.397940009
+,test_459,O=C(O)CNC(\N[C@H](C)c1ccccc1)=N/c1cc(C)ccc1,12000,4.079181246
+,test_460,O=C(O)CNC(\N[C@H](C)c1ccccc1)=N/c1cc(ccc1)C(F)(F)F,7500,3.875061263
+,test_461,O=NOc1cccc(c1)\N=C(/NCC(=O)O)N[C@H](C)c1ccccc1,6000,3.77815125
+,test_462,O=C(O)CNC(\N[C@H](C)c1ccccc1)=N/c1cccc(c1)[N+]#[C-],5500,3.740362689
+,test_463,Clc1cc(\N=C(/NCC(=O)O)N[C@H](C)c2ccccc2)cc(Cl)c1,120000,5.079181246
+,test_464,O=C(O)CNC(\N[C@H](C)c1ccccc1)=N/c1cc(C)cc(C)c1,30000,4.477121255
+,test_465,O=C(O)CNC(\N[C@H](C)c1ccccc1)=N/c1cc(F)cc(F)c1,15000,4.176091259
+,test_466,O=C(O)CNC(\N[C@H](C)c1ccccc1)=N/c1cc(C)c(cc1)[N+]#[C-],50000,4.698970004
+,test_467,O=C(O)CNC(\N[C@H](C)c1ccccc1)=N/c1cc(C)c([N+]#[C-])c(C)c1,50000,4.698970004
+,test_468,Clc1cc(\N=C(/NCC(=O)O)N[C@H](C)c2ccccc2)cc(Cl)c1Cl,35000,4.544068044
+,test_469,Clc1cc(\N=C(\NCc2ccccc2)NCC(=O)O)cc(Cl)c1,80000,4.903089987
+,test_470,Clc1cc(cc(Cl)c1)\N=C(\NSC(C)C1CCCCC1)NCC(=O)O,70000,4.84509804
+,test_471,Clc1cc(cc(Cl)c1)\N=C(\NC1CCCCCCC1)NCC(=O)O,60000,4.77815125
+,test_472,Clc1cc(cc(Cl)c1)/N=C(/NCC1CCCCC1)NCC(=O)O,35000,4.544068044
+,test_473,Clc1cc(\N=C(\Nc2cc3ccccc3cc2)NCC(=O)O)cc(Cl)c1,30000,4.477121255
+,test_474,Clc1cc(cc(Cl)c1)/N=C(/NC1CCCCCC1)NCC(=O)O,20000,4.301029996
+,test_475,Clc1cc(N\C(=N\c2cc(Cl)cc(Cl)c2)NCC(=O)O)cc(Cl)c1,1000,3
+,test_476,[C-]#[N+]c1ccc(cc1)\N=C(/NCC(=O)O)NCc1cccc2OCOc12,205000,5.311753861
+,test_477,[C-]#[N+]c1ccc(cc1)\N=C(/NCC(=O)O)NCc1cc(C)cc2OCOc12,200000,5.301029996
+3-amino-4-[(1-methoxy-5-methyl-1-oxohexan-2-yl)amino]-4-oxobutanoic acid,test_478,O=C(NC(CCC(C)C)C(=O)OC)C(N)CC(=O)O,128.8249552,2.11
+3-amino-4-[(1-methoxy-1-oxoheptan-2-yl)amino]-4-oxobutanoic acid,test_479,O=C(NC(CCCCC)C(=O)OC)C(N)CC(=O)O,79.43282347,1.9
+3-amino-4-[(1-methoxy-1-oxooctan-2-yl)amino]-4-oxobutanoic acid,test_480,O=C(NC(CCCCCC)C(=O)OC)C(N)CC(=O)O,117.4897555,2.07
+"3-amino-4-[(1,5-dimethoxy-4-methyl-1,5-dioxopentan-2-yl)amino]-4-oxobutanoic acid",test_481,O=C(NC(CC(C)C(=O)OC)C(=O)OC)C(N)CC(=O)O,14.12537545,1.15
+3-amino-4-[(3-hydroxy-1-methoxy-1-oxohexan-2-yl)amino]-4-oxobutanoic acid,test_482,O=C(NC(C(O)CCC)C(=O)OC)C(N)CC(=O)O,14.45439771,1.16
+"3-amino-4-{[1-(cyclohexyloxy)-3-methoxy-1,3-dioxopropan-2-yl]amino}-4-oxobutanoic acid",test_483,O=C(OC1CCCCC1)C(NC(=O)C(N)CC(=O)O)C(=O)OC,831.7637711,2.92
+"3-amino-4-[(1,3-diethoxy-1,3-dioxopropan-2-yl)amino]-4-oxobutanoic acid",test_484,O=C(NC(C(=O)OCC)C(=O)OCC)C(N)CC(=O)O,22.38721139,1.35
+"3-amino-4-[(1-tert-butoxy-3-ethoxy-1,3-dioxopropan-2-yl)amino]-4-oxobutanoic acid",test_485,CC(C)(C)OC(=O)C(NC(=O)C(N)CC(=O)O)C(=O)OCC,208.9296131,2.32
+"3-amino-4-{[1-(cyclopentyloxy)-3-ethoxy-1,3-dioxopropan-2-yl]amino}-4-oxobutanoic acid",test_486,O=C(OC1CCCC1)C(NC(=O)C(N)CC(=O)O)C(=O)OCC,275.4228703,2.44
+"3-amino-4-{[1-(cyclohexyloxy)-3-ethoxy-1,3-dioxopropan-2-yl]amino}-4-oxobutanoic acid",test_487,O=C(OC1CCCCC1)C(NC(=O)C(N)CC(=O)O)C(=O)OCC,478.6300923,2.68
+3-amino-4-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)amino]-4-oxobutanoic acid,test_488,O=C(O)CC(N)C(=O)NC(Cc1ccccc1)C(=O)OC,169.8243652,2.23
+3-amino-4-[(1-methoxy-1-oxononan-2-yl)amino]-4-oxobutanoic acid,test_489,O=C(NC(CCCCCCC)C(=O)OC)C(N)CC(=O)O,199.5262315,2.3
+3-amino-4-[(1-methoxy-1-oxohexan-2-yl)amino]-4-oxobutanoic acid,test_490,O=C(NC(CCCC)C(=O)OC)C(N)CC(=O)O,30.90295433,1.49
+3-amino-4-{[3-(ethylsulfanyl)-1-methoxy-1-oxopropan-2-yl]amino}-4-oxobutanoic acid,test_491,CCSCC(NC(=O)C(N)CC(=O)O)C(=O)OC,39.81071706,1.6
+3-amino-4-{[4-methoxy-4-oxo-1-(propylsulfanyl)butan-2-yl]amino}-4-oxobutanoic acid,test_492,CCCSCC(NC(=O)C(N)CC(=O)O)CC(=O)OC,128.8249552,2.11
+4-({1-methoxy-1-oxo-3-[(propan-2-yl)sulfanyl]propan-2-yl}amino)-3-methyl-4-oxobutanoic acid,test_493,CC(C)SCC(NC(=O)C(C)CC(=O)O)C(=O)OC,169.8243652,2.23
+3-amino-4-{[1-(tert-butylsulfanyl)-4-methoxy-4-oxobutan-2-yl]amino}-4-oxobutanoic acid,test_494,CC(C)(C)SCC(CC(=O)OC)NC(=O)C(N)CC(=O)O,891.2509381,2.95
+3-amino-4-[(1-tert-butoxy-4-methoxy-4-oxobutan-2-yl)amino]-4-oxobutanoic acid,test_495,CC(C)(C)OCC(CC(=O)OC)NC(=O)C(N)CC(=O)O,141.2537545,2.15
+3-amino-4-[(4-methoxy-4-oxo-1-phenoxybutan-2-yl)amino]-4-oxobutanoic acid,test_496,O=C(O)CC(N)C(=O)NC(COc1ccccc1)CC(=O)OC,141.2537545,2.15
+"3-amino-4-[(3-hydroxy-1,5-dimethoxy-1,5-dioxopentan-2-yl)amino]-4-oxobutanoic acid",test_497,O=C(NC(C(O)CC(=O)OC)C(=O)OC)C(N)CC(=O)O,100,2
+4-(ethylamino)-4-oxo-3-(propylamino)butanoic acid容thane (1/1),test_498,CCCNC(CC(=O)O)C(=O)NCC,33.88441561,1.53
+"4-oxo-3,4-bis(propylamino)butanoic acid容thane (1/1)",test_499,CCCNC(CC(=O)O)C(=O)NCCC,26.91534804,1.43
+4-(butylamino)-4-oxo-3-(propylamino)butanoic acid容thane (1/1),test_500,CCCNC(CC(=O)O)C(=O)NCCCC,44.66835922,1.65
+4-[(2-methylpropyl)amino]-4-oxo-3-(propylamino)butanoic acid容thane (1/1),test_501,CCCNC(CC(=O)O)C(=O)NCC(C)C,64.5654229,1.81
+,test_502,O=C(O)CC(NCCC(C)(C)C)C(=O)NC(Cc1ccccc1)C(=O)OC,10964.78196,4.04
+,test_503,O=C(O)CC(NCC(CC)CC)C(=O)NC(Cc1ccccc1)C(=O)OC,2187.761624,3.34
+,test_504,O=C(O)CC(\N=C\CCC)C(=O)NC(Cc1ccccc1)C(=O)OC,1621.810097,3.21
+,test_505,O=C(O)CC(NCCC(C)C)C(=O)NC(Cc1ccccc1)C(=O)OC,1380.384265,3.14
+,test_506,O=C(OC)C(Cc1ccccc1)NC(=O)C(NC1CCCCCCC1)CC(=O)O,1174.897555,3.07
+,test_507,O=C(OC)C(Cc1ccccc1)NC(=O)C(NC1CCCCCC1)CC(=O)O,1995.262315,3.3
+,test_508,O=C(OC)C(Cc1ccccc1)NC(=O)C(NCC1CCCCC1)CC(=O)O,891.2509381,2.95
+,test_509,O=C(OC)C(Cc1ccccc1)NC(=O)C(CC(=O)O)NC1CCCCC1,891.2509381,2.95
+,test_510,O=C(O)CC(N[C@H](C)C(C)CC)C(=O)NC(Cc1ccccc1)C(=O)OC,645.654229,2.81
+,test_511,O=C(O)CC(NCC(C)C)C(=O)NC(Cc1ccccc1)C(=O)OC,489.7788194,2.69
+,test_512,O=C(O)CC(NCCCC)C(=O)NC(Cc1ccccc1)C(=O)OC,398.1071706,2.6
+,test_513,O=C(O)CC(NCCCCC)C(=O)NC(Cc1ccccc1)C(=O)OC,199.5262315,2.3
+,test_514,OC(=O)CC(NCC1CC1)C(=O)NC(Cc1ccccc1)C(=O)OC,199.5262315,2.3
+,test_515,O=C(O)CC(NC[C@@H](O)CO)C(=O)NC(Cc1ccccc1)C(=O)OC,39.81071706,1.6
+,test_516,O=C(O)CC(NCCO)C(=O)NC(Cc1ccccc1)C(=O)OC,11.74897555,1.07
+,test_517,CC(C)(C)SCC(NC(=O)C(CC(=O)O)NCCC)C(=O)OC.CC,22908.67653,4.36
+,test_518,CC.O=C(O)CC(NCCC)C(=O)NC(CC1CCCCC1)C(=O)OC,13489.62883,4.13
+,test_519,CC.OC(O)CC(NCCC)C(=O)N(CC)C(=O)NC(Oc1ccccc1)CC,9332.543008,3.97
+,test_520,CC.OC(O)CC(NCCC)C(=O)N(CC(C)C)C(=O)NC(Oc1ccccc1)CCOC,5128.61384,3.71
+,test_521,CC.OC(O)CC(NCCC)C(=O)N(CC)C(=O)NC(Oc1ccccc1)CCOC,4897.788194,3.69
+,test_522,CC.O=C(O)CC(NCCC)C(=O)NC(COc1ccccc1)C(=O)OC,4570.881896,3.66
+,test_523,CC(C)(C)OCC(NC(=O)C(CC(=O)O)NCCC)C(=O)OC.CC,4265.795188,3.63
+,test_524,CC.OC(O)CC(NCCC)C(=O)NC(C(C)C)C(=O)NC(Oc1ccccc1)CC,3715.352291,3.57
+,test_525,CC.OC(O)CC(NCCC)C(=O)NC(C)C(=O)NC(C)Oc1ccccc1,2290.867653,3.36
+,test_526,CC.O=C(O)CC(NCCC)C(=O)NC(Cc1ccccc1)C(=O)OCC,2290.867653,3.36
+,test_527,CC.O=C(O)CC(NCCC)C(=O)NC(C)Cc1ccccc1,100,2
+,test_528,CC.O=C(O)CC(NCCC)C(=O)NC(Cc1ccccc1)CO,29.99162519,1.477
+,test_529,C[C@H](NC(=O)[C@H](N)CC(=O)O)COC(=O)C,40.73802778,1.61
+,test_530,C[C@H](NC(=O)[C@H](N)CC(=O)O)COC(=O)CC,72.44359601,1.86
+,test_531,C[C@H](NC(=O)[C@H](N)CC(=O)O)COC(=O)C=C,70.79457844,1.85
+,test_532,C[C@H](NC(=O)[C@H](N)CC(=O)O)COC(=O)C(C)C,95.4992586,1.98
+,test_533,C[C@H](NC(=O)[C@H](N)CC(=O)O)COC(=O)C(=C)C,97.7237221,1.99
+,test_534,O=C(O)C[C@@H](N)C(=O)N[C@@H](C)COC(=O)C1CC1,151.3561248,2.18
+,test_535,C[C@H](NC(=O)[C@H](N)CC(=O)O)COC(=O)CCCC,3.981071706,0.6
+,test_536,C[C@H](NC(=O)[C@H](N)CC(=O)O)COC(=O)C(C)CC,120.2264435,2.08
+,test_537,C[C@H](NC(=O)[C@H](N)CC(=O)O)COC(=O)CC(C)C,120.2264435,2.08
+,test_538,C[C@H](NC(=O)[C@H](N)CC(=O)O)COC(=O)C(C)(C)C,190.5460718,2.28
+,test_539,CC1CC1C(=O)OC[C@H](C)NC(=O)[C@H](N)CC(=O)O,47.86300923,1.68
+,test_540,O=C(O)C[C@@H](N)C(=O)N[C@@H](C)COC(=O)C1CCC1,173.7800829,2.24
+,test_541,C[C@H](NC(=O)[C@H](N)CC(=O)O)COC(=O)C(CC)CC,33.88441561,1.53
+,test_542,CC1CCC1C(=O)OC[C@H](C)NC(=O)[C@H](N)CC(=O)O,134.8962883,2.13
+,test_543,O=C(O)C[C@@H](N)C(=O)N[C@@H](C)COC(=O)C1CCCC1,50.11872336,1.7
+,test_544,O=C(C)OC[C@H](CO)NC(=O)[C@H](N)CC(=O)O,16.98243652,1.23
+,test_545,O=C(CC)OC[C@H](CO)NC(=O)[C@H](N)CC(=O)O,97.7237221,1.99
+,test_546,O=C(O)C[C@@H](N)C(=O)N[C@H](COC(=O)C1CC1)CO,91.20108394,1.96
+,test_547,O=C(OC[C@H](CO)NC(=O)[C@H](N)CC(=O)O)C(C)C,30.1995172,1.48
+,test_548,O=C(CCC)OC[C@H](CO)NC(=O)[C@H](N)CC(=O)O,3.801893963,0.58
+,test_549,O=C(O)C[C@@H](N)C(=O)N[C@H](COC(=O)C1CCC1)CO,51.2861384,1.71
+,test_550,O=C(CC(C)C)OC[C@H](CO)NC(=O)[C@H](N)CC(=O)O,19.95262315,1.3
+,test_551,O=C(OC[C@H](CO)NC(=O)[C@H](N)CC(=O)O)C(C)CC,16.21810097,1.21
+,test_552,O=C(O)C[C@@H](N)C(=O)N[C@H](COC(=O)C1CCCC1)CO,8.317637711,0.92
+,test_553,O=C(C)OCC(NC(=O)[C@H](N)CC(=O)O)C(C)C,38.01893963,1.58
+,test_554,O=C(CC)OCC(NC(=O)[C@H](N)CC(=O)O)C(C)C,39.81071706,1.6
+,test_555,O=C(OCC(NC(=O)[C@H](N)CC(=O)O)C(C)C)C(C)C,12.58925412,1.1
+,test_556,O=C(O)C[C@@H](N)C(=O)NC(COC(=O)C1CC1)C(C)C,16.59586907,1.22
+,test_557,O=C(O)C[C@@H](N)C(=O)NC(COC(=O)C1CCC1)C(C)C,11.48153621,1.06
+,test_558,O=C(CCC)OCC(NC(=O)[C@H](N)CC(=O)O)C(C)C,2.511886432,0.4
+,test_559,O=C(CC(C)NC(=O)[C@H](N)CC(=O)O)OCC,14.45439771,1.16
+,test_560,CC(C)OC(=O)CC(C)NC(=O)[C@H](N)CC(=O)O,6.918309709,0.84
+,test_561,CC(CC)OC(=O)CC(C)NC(=O)[C@H](N)CC(=O)O,3.981071706,0.6
+,test_562,CC(C)(C)OC(=O)CC(C)NC(=O)[C@H](N)CC(=O)O,4.786300923,0.68
+,test_563,O=C(OC1CCCCC1)CC(C)NC(=O)[C@H](N)CC(=O)O,4.365158322,0.64
+,test_564,O=C(NC(C)CC(=O)OC)[C@H](N)CC(=O)O,10.96478196,1.04
+,test_565,O=C(NC(CC(=O)OC)CO)[C@H](N)CC(=O)O,30.90295433,1.49
+,test_566,O=C(CC(NC(=O)[C@H](N)CC(=O)O)CO)OCC,83.17637711,1.92
+,test_567,O=C(CC(NC(=O)[C@H](N)CC(=O)O)CO)OCCC,245.4708916,2.39
+,test_568,CC(C)OC(=O)CC(NC(=O)[C@H](N)CC(=O)O)CO,91.20108394,1.96
+,test_569,O=C(CC(CO)NC(=O)[C@H](N)CC(=O)O)OCCCC,56.23413252,1.75
+,test_570,CC(C)(C)OC(=O)CC(CO)NC(=O)[C@H](N)CC(=O)O,162.1810097,2.21
+,test_571,O=C(OC1CCCCC1)CC(CO)NC(=O)[C@H](N)CC(=O)O,52.48074602,1.72
+,test_572,O=C(NC(CC(=O)OC)C(C)O)[C@H](N)CC(=O)O,18.19700859,1.26
+,test_573,O=C(CC(NC(=O)[C@H](N)CC(=O)O)C(C)O)OCC,85.11380382,1.93
+,test_574,O=C(CC(NC(=O)[C@H](N)CC(=O)O)C(C)O)OCCC,120.2264435,2.08
+,test_575,CC(C)OC(=O)CC(NC(=O)[C@H](N)CC(=O)O)C(C)O,85.11380382,1.93
+,test_576,O=C(CC(NC(=O)[C@H](N)CC(=O)O)C(C)O)OCCCC,25.70395783,1.41
+,test_577,CC(C)COC(=O)CC(NC(=O)[C@H](N)CC(=O)O)C(C)O,93.32543008,1.97
+,test_578,O=C(OC1CCCCC1)CC(NC(=O)[C@H](N)CC(=O)O)C(C)O,27.54228703,1.44
+,test_579,O=C(CC(C)NC(=O)[C@H](N)CC(=O)O)OCCC,72.44359601,1.86
+,test_580,O=C(CC(NC(=O)[C@H](N)CC(=O)O)CCC)OCCC,36.30780548,1.56
+,test_581,O=C(CC(C)NC(=O)[C@H](N)CC(=O)O)OCCCC,7.943282347,0.9
+,test_582,O=C(CC(C)NC(=O)[C@H](N)CC(=O)O)OCCCCC,4.786300923,0.68
+,test_583,CC(C)OC(=O)CC(NC(=O)[C@H](N)CC(=O)O)C(C)C,141.2537545,2.15
+,test_584,CC(C)OC(=O)CC(NC(=O)[C@H](N)CC(=O)O)C(C)CC,3.388441561,0.53
+,test_585,O=C(CC(C)NC(=O)[C@H](N)CC(=O)O)c1ccccc1,7.762471166,0.89
+,test_586,O=C(O)C[C@@H](N)C(=O)NC(C)COc1ccccc1,15.48816619,1.19
+,test_587,Fc1cc(CC(C)NC(=O)[C@H](N)CC(=O)O)ccc1,31.6227766,1.5
+,test_588,O=C(O)C[C@@H](N)C(=O)NC(C)Cc1cc(CO)oc1,14.45439771,1.16
+,test_589,O=C(NC(C)CCCC)[C@H](N)CC(=O)O,39.81071706,1.6
+,test_590,O=C(NC(C)CCCCC)[C@H](N)CC(=O)O,26.91534804,1.43
+,test_591,O=C(NC(C)CCC(C)C)[C@H](N)CC(=O)O,34.67368505,1.54
+,test_592,CCOCCC(C)NC(=O)[C@H](N)CC(=O)O,13.80384265,1.14
+,test_593,O=C(NC(C)CCCCCC)[C@H](N)CC(=O)O,14.79108388,1.17
+,test_594,O=C(O)C[C@@H](N)C(=O)NC(C)(C)Cc1ccccc1,7.762471166,0.89
+,test_595,O=C(NC(CCC(C)C)C(=O)OC)[C@H](N)CC(=O)O,128.8249552,2.11
+,test_596,O=C(NC(CCCCC)C(=O)OC)[C@H](N)CC(=O)O,79.43282347,1.9
+,test_597,O=C(NC(CCCCCC)C(=O)OC)[C@H](N)CC(=O)O,117.4897555,2.07
+,test_598,O=C(O)C[C@@H](N)C(=O)NC(C(C)c1ccccc1)C(=O)OC,8.912509381,0.95
+,test_599,O=C(NC(CC(C)C(=O)OC)C(=O)OC)[C@H](N)CC(=O)O,14.12537545,1.15
+,test_600,C[C@H](NC(=O)[C@H](N)CC(=O)O)COC(=O)CCC,38.01893963,1.58
+,test_601,O=C(C)OC[C@H](CC)NC(=O)[C@H](N)CC(=O)O,14.45439771,1.16
+,test_602,O=C(CC)OC[C@H](CC)NC(=O)[C@H](N)CC(=O)O,30.1995172,1.48
+,test_603,O=C(OC[C@H](CC)NC(=O)[C@H](N)CC(=O)O)C(C)C,23.98832919,1.38
+,test_604,O=C(O)C[C@@H](N)C(=O)N[C@H](COC(=O)C1CC1)CC,23.98832919,1.38
+,test_605,O=C(O)C[C@@H](N)C(=O)N[C@H](COC(=O)C1CCC1)CC,25.11886432,1.4
+,test_606,O=C(NC(CC)C(C)=O)[C@H](N)CC(=O)O,3.01995172,0.48
+,test_607,O=C(NC(CCC)C(C)=O)[C@H](N)CC(=O)O,16.21810097,1.21
+,test_608,O=C(C)OCC(CCC)NC(=O)[C@H](N)CC(=O)O,4.570881896,0.66
+,test_609,O=C(O)C[C@@H](N)C(=O)NC(COC(=O)c1ccccc1)C(=O)OC,7.58577575,0.88
+,test_610,CC(C)OC(=O)CC(NC(=O)[C@H](N)CC(=O)O)CCC,26.91534804,1.43
+,test_611,CC(C)(C)OC(=O)CC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,107.1519305,2.03
+,test_612,CCC(=O)CCOC(=O)C(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,616.5950019,2.79
+,test_613,O=C(CC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC)OC1CCCC1,831.7637711,2.92
+,test_614,O=C(OC1CCCCC1)CC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,1380.384265,3.14
+,test_615,O=C(OC1CCCCC1C)C(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,8317.637711,3.92
+,test_616,O=C(OC1CC(C)CCC1)CC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,1047.128548,3.02
+,test_617,O=C(OC1CCC(C)CC1)CC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,74.13102413,1.87
+,test_618,O=C(OC1C(C)CCCC1C)CC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,10471.28548,4.02
+,test_619,O=C(OC1CC(C)CC(C)(C)C1)CC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,575.4399373,2.76
+,test_620,O=C(O)C[C@@H](N)C(=O)NC(C(=O)OC1CC2CCC1(C)C2(C)C)C(=O)OC,1445.439771,3.16
+,test_621,O=C(O)C[C@@H](N)C(=O)NC(C(=O)OC1C(C)(C)C2CCC1(C)C2)C(=O)OC,61659.50019,4.79
+,test_622,CC(C)(C)OC(=O)CC(NC(=O)[C@H](N)CC(=O)O)C(=O)OCC,208.9296131,2.32
+,test_623,O=C(CC(NC(=O)[C@H](N)CC(=O)O)C(=O)OCC)OC1CCCC1,275.4228703,2.44
+,test_624,O=C(OC1CCCCC1)CC(NC(=O)[C@H](N)CC(=O)O)C(=O)OCC,478.6300923,2.68
+,test_625,O=C(OC1CCCCC1C)C(NC(=O)[C@H](N)CC(=O)O)C(=O)OCC,1230.268771,3.09
+,test_626,O=C(O)C[C@@H](N)C(=O)NC(C(=O)OC1C(C)(C)C2CCC1(C)C2)C(=O)OCC,11220.18454,4.05
+,test_627,Fc1cc(CCNC(=O)[C@H](N)CC(=O)O)ccc1,3.715352291,0.57
+,test_628,O=C(O)C[C@@H](N)C(=O)NCCC1CCCCC1,7.079457844,0.85
+,test_629,O=C(O)C[C@@H](N)C(=O)NC(C)Cc1ccccc1,36.30780548,1.56
+,test_630,O=C(NC(C)C(C)CCCCC)[C@H](N)CC(=O)O,38.01893963,1.58
+,test_631,O=C(O)C[C@@H](N)C(=O)NC(Cc1ccccc1)C(=O)OC,128.8249552,2.11
+,test_632,O=C(NC(CCCC)C(=O)OC)[C@H](N)CC(=O)O,30.90295433,1.49
+,test_633,O=C(NC(CCC)C(=O)OC)[C@H](N)CC(=O)O,2.884031503,0.46
+,test_634,O=C(NC(CCCCNC(C)=O)C(=O)OC)[C@H](N)CC(=O)O,1.862087137,0.27
+,test_635,O=C(NC(CCCNC(C)=O)C(=O)OC)[C@H](N)CC(=O)O,1.77827941,0.25
+,test_636,O=C(NC(C(O)CCC)C(=O)OC)[C@H](N)CC(=O)O,14.45439771,1.16
+,test_637,O=C(CCCNC(=O)[C@H](N)CC(=O)O)OC,1.348962883,0.13
+,test_638,CCSCC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,39.81071706,1.6
+,test_639,CCCSCC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,128.8249552,2.11
+,test_640,CC(C)SCC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,169.8243652,2.23
+,test_641,CC(C)(C)SCC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,891.2509381,2.95
+,test_642,CC(C)(C)OCC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,141.2537545,2.15
+,test_643,Oc1ccc(CC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC)cc1,141.2537545,2.15
+,test_644,O=C(NC(CCC(=O)OC)C(=O)OC)[C@H](N)CC(=O)O,100,2
+,test_645,O=C(C)OCCNC(=O)[C@H](N)CC(=O)O,1.905460718,0.28
+,test_646,O=C(CC)OCCNC(=O)[C@H](N)CC(=O)O,4.073802778,0.61
+,test_647,O=C(CCC)OCCNC(=O)[C@H](N)CC(=O)O,3.630780548,0.56
+,test_648,O=C(OCCNC(=O)[C@H](N)CC(=O)O)C(C)C,14.45439771,1.16
+,test_649,O=C(O)C[C@@H](N)C(=O)NCCOC(=O)C1CC1,10.71519305,1.03
+,test_650,O=C(O)C[C@@H](N)C(=O)NCCOC(=O)C1CCC1,9.77237221,0.99
+,test_651,O=C(CC(C)C)OCCNC(=O)[C@H](N)CC(=O)O,22.90867653,1.36
+,test_652,O=C(C)OCC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,8.128305162,0.91
+,test_653,O=C(CC)OCC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,33.88441561,1.53
+,test_654,O=C(CCC)OCC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC,26.91534804,1.43
+,test_655,O=C(OCC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC)C(C)C,44.66835922,1.65
+,test_656,O=C(OCC(NC(=O)[C@H](N)CC(=O)O)C(=O)OC)C(C)(C)C,64.5654229,1.81
+,test_657,CC(CC)OC(=O)CCNC(=O)[C@H](N)CC(=O)O,5.370317964,0.73
+,test_658,CC(C)(C)OC(=O)CCNC(=O)[C@H](N)CC(=O)O,2.290867653,0.36
+,test_659,CCC(CC)OC(=O)CCNC(=O)[C@H](N)CC(=O)O,3.981071706,0.6
+,test_660,CC(CCC)OC(=O)CCNC(=O)[C@H](N)CC(=O)O,4.786300923,0.68
+,test_661,O=C(CCNC(=O)[C@H](N)CC(=O)O)OC1CCCC1,14.45439771,1.16
+,test_662,O=C(OC1CCCCC1)CCNC(=O)[C@H](N)CC(=O)O,16.59586907,1.22
+,test_663,CC(C)OC(=O)C(C)CNC(=O)[C@H](N)CC(=O)O,1.513561248,0.18
+,test_664,CC(C)(C)OC(=O)C(C)CNC(=O)[C@H](N)CC(=O)O,3.235936569,0.51
+,test_665,O=C(OC1CCCC1)C(C)CNC(=O)[C@H](N)CC(=O)O,7.58577575,0.88
+,test_666,O=C(OC1CCCCC1)C(C)CNC(=O)[C@H](N)CC(=O)O,8.7096359,0.94
+,test_667,O=C(NCCC(=O)OC)[C@H](N)CC(=O)O,1.288249552,0.11
+,test_668,CC(C)OC(=O)CCNC(=O)[C@H](N)CC(=O)O,5.011872336,0.7
+,test_669,O=C(NC(CC(=O)OC)C(=O)OC)[C@H](N)CC(=O)O,3.981071706,0.6
+,test_670,O=C(CCNC(=O)[C@H](N)CC(=O)O)OCCC,9.54992586,0.98
+,test_671,O=C(NC(CC(=O)OCC)C(=O)OCC)[C@H](N)CC(=O)O,22.38721139,1.35
