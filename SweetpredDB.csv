@@ -290,33 +290,33 @@ tripotassium glycyrrhizinate,test_288,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5
 tryptophan,test_289,OC(=O)C(N)Cc1c2c([nH]c1)cccc2,3500,3.54
 xylitol,test_290,OC(C(O)CO)C(O)CO,96.75,1.99
 xylobiose,test_291,O1CC(O)C(O)C(O)C1OC1COC(O)C(O)C1O,40,1.6
-4-HydroxyglycosidesDHC,test_292,O1C(CO)C(O)C(O)C(OC2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2cc(O)c(O)cc2)c(O)c1,10000,4
+4-HydroxyﾂglycosidesﾂDHC,test_292,O1C(CO)C(O)C(O)C(OC2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2cc(O)c(O)cc2)c(O)c1,10000,4
 Alitame,test_293,S1C(C)(C)C(NC(=O)C(NC(=O)C(N)CC(O)=O)C)C1(C)C.S1C(C)(C)C(NC(=O)C(NC(=O)C(N)CC(O)=O)C)C1(C)C.O.O.O.O.O,208333.33,5.318758756
 D-trehalose,test_294,O1C(CO)C(O)C(O)C(O)C1OC1OC(CO)C(O)C(O)C1O,45,1.653212514
-Disodiumglycyrrhizinate,test_295,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)[O-])O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)[O-])O)O)O)C)(C)C(=O)[O-].[Na+].[Na+] C(O)C1C(O)=O,20000,4.301029996
+Disodiumﾂglycyrrhizinate,test_295,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)[O-])O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)[O-])O)O)O)C)(C)C(=O)[O-].[Na+].[Na+] C(O)C1C(O)=O,20000,4.301029996
 Hernandulcin,test_296,O=C1C=C(CC[C@@H]1[C@@](O)(CC\C=C(\C)/C)C)C,100000,5
 Lactulose,test_297,O1C(CO)C(O)C(O)C(O)C1OC1C(O)[C@@](OC1CO)(O)CO,57,1.755874856
 Perillartine,test_298,O\N=C\C=1CCC(CC=1)C(C)=C,200000,5.301029996
-PolypodosidesA,test_299,O1C(CO)C(O)C(O)C(OC2OC(C)C(O)C(O)C2O)C1OC1CC2[C@@](C3C(CC2=O)C2CCC(C(C)C4OC(OC5OC(C)C(O)C(O)C5O)C(CC4)C)[C@]2(CC3)C)(CC1)C,60000,4.77815125
-Potassiumglycyrrhizinate,test_300,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C(C5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)[O-].[K+],50000,4.698970004
+PolypodosidesﾂA,test_299,O1C(CO)C(O)C(O)C(OC2OC(C)C(O)C(O)C2O)C1OC1CC2[C@@](C3C(CC2=O)C2CCC(C(C)C4OC(OC5OC(C)C(O)C(O)C5O)C(CC4)C)[C@]2(CC3)C)(CC1)C,60000,4.77815125
+Potassiumﾂglycyrrhizinate,test_300,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C(C5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)[O-].[K+],50000,4.698970004
 Rubusoside,test_301,O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@]1([C@@H]2CC[C@@]34[C@@H](CC[C@@](O[C@@H]5OC(CO)C(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC1)C)C,11400,4.056904851
-SiamenosideI,test_302,O1C(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C(O[C@H]2OC(CO)C(O)C(O)C2O)C1OC(C(O)(C)C)CCC(C)[C@@H]1CC[C@@]2([C@@H]3CC=C4[C@@H](CCC(O[C@H]5OC(CO)C(O)C(O)C5O)C4(C)C)[C@]3(C)C(O)C[C@@]12C)C,56000,4.748188027
-Tripotassiumglycyrrhizinate,test_303,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)[O-])O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)[O-])O)O)O)C)(C)C(=O)[O-].[K+].[K+].[K+],15000,4.176091259
+SiamenosideﾂI,test_302,O1C(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C(O[C@H]2OC(CO)C(O)C(O)C2O)C1OC(C(O)(C)C)CCC(C)[C@@H]1CC[C@@]2([C@@H]3CC=C4[C@@H](CCC(O[C@H]5OC(CO)C(O)C(O)C5O)C4(C)C)[C@]3(C)C(O)C[C@@]12C)C,56000,4.748188027
+Tripotassiumﾂglycyrrhizinate,test_303,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)[O-])O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)[O-])O)O)O)C)(C)C(=O)[O-].[K+].[K+].[K+],15000,4.176091259
 baiyunoside,test_304,O1[C@H](OC2CC[C@@]3([C@H](CCC(C)=C3CCc3ccoc3)C2(C)C)C)C(O[C@@H]2OCC(O)C(O)C2O)C(O)C(O)C1CO,50000,4.698970004
-dulcosideA,test_305,O1C(C)C(O)C(O)C(O)C1OC1C(O)C(O)C(OC1O[C@]12CCC3[C@](CC1=C)(C2)CCC1[C@@](CCC[C@]13C)(C(OC1OC(CO)C(O)C(O)C1O)=O)C)CO,8750,3.942008053
+dulcosideﾂA,test_305,O1C(C)C(O)C(O)C(O)C1OC1C(O)C(O)C(OC1O[C@]12CCC3[C@](CC1=C)(C2)CCC1[C@@](CCC[C@]13C)(C(OC1OC(CO)C(O)C(O)C1O)=O)C)CO,8750,3.942008053
 glycyrrhizin,test_306,O1[C@@H](OC2CC[C@@]3([C@H]4[C@](CC[C@H]3C2(C)C)(C)[C@@]2(CC[C@@]3([C@@H](C2=CC4=O)C[C@](CC3)(C(O)=O)C)C)C)C)C(O[C@@H]2OC(C(O)=O)C(O)C(O)C2O)C(O)C(O)C1C(O)=O,20500,4.311753861
 isomaltulose,test_307,O1C(CO)C(O)C(O)C(O)C1OCC1O[C@](O)(CO)C(O)C1O,43.1,1.63447727
 lactitol,test_308,O1C(CO)C(O)C(O)C(O)C1OC(C(O)C(O)CO)C(O)CO,35,1.544068044
-mogrosideII,test_309,O1C(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C(O[C@@H]2OC(CO)C(O)C(O)C2O)C1OC(C(O)(C)C)CCC(C)[C@@H]1CC[C@]2([C@H]3CC=C4[C@H](CCC(O[C@H]5OC(COC6OC(CO)C(O)C(O)C6O)C(O)C(O)C5O)C4(C)C)[C@]3(C)C(=O)C[C@@]12C)C,8400,3.924279286
-mogrosideIV,test_310,O1C(CO)C(O)C(O)C(O)C1OCC1OC(OC(C(O)(C)C)CCC(C)[C@H]2CC[C@@]3([C@@H]4CC=C5[C@@H](CCC(O[C@@H]6OC(COC7OC(CO)C(O)C(O)C7O)C(O)C(O)C6O)C5(C)C)[C@@]4(C)C(O)C[C@]23C)C)C(O)C(O)C1O,12500,4.096910013
-mogrosideV,test_311,O1C(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C(O[C@H]2OC(CO)C(O)C(O)C2O)C1OC(C(O)(C)C)CCC(C)[C@@H]1CC[C@@]2([C@@H]3CC=C4[C@H](CCC(O[C@@H]5OC(COC6OC(CO)C(O)C(O)C6O)C(O)C(O)C5O)C4(C)C)[C@@]3(C)C(O)C[C@]12C)C,30000,4.477121255
+mogrosideﾂII,test_309,O1C(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C(O[C@@H]2OC(CO)C(O)C(O)C2O)C1OC(C(O)(C)C)CCC(C)[C@@H]1CC[C@]2([C@H]3CC=C4[C@H](CCC(O[C@H]5OC(COC6OC(CO)C(O)C(O)C6O)C(O)C(O)C5O)C4(C)C)[C@]3(C)C(=O)C[C@@]12C)C,8400,3.924279286
+mogrosideﾂIV,test_310,O1C(CO)C(O)C(O)C(O)C1OCC1OC(OC(C(O)(C)C)CCC(C)[C@H]2CC[C@@]3([C@@H]4CC=C5[C@@H](CCC(O[C@@H]6OC(COC7OC(CO)C(O)C(O)C7O)C(O)C(O)C6O)C5(C)C)[C@@]4(C)C(O)C[C@]23C)C)C(O)C(O)C1O,12500,4.096910013
+mogrosideﾂV,test_311,O1C(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C(O[C@H]2OC(CO)C(O)C(O)C2O)C1OC(C(O)(C)C)CCC(C)[C@@H]1CC[C@@]2([C@@H]3CC=C4[C@H](CCC(O[C@@H]5OC(COC6OC(CO)C(O)C(O)C6O)C(O)C(O)C5O)C4(C)C)[C@@]3(C)C(O)C[C@]12C)C,30000,4.477121255
 osladin,test_312,O1C(CO)C(O)C(O)C(OC2OC(C)C(O)C(O)C2O)C1OC1CC2[C@](C3C(CC2=O)C2CCC(C(C)C4OC(OC5OC(C)C(O)C(O)C5O)C(CC4)C)[C@@]2(CC3)C)(CC1)C,300000,5.477121255
-rebaudiosideA,test_313,C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O,22500,4.352182518
-rebaudiosideB,test_314,O1[C@H](OC2C(O)C(O[C@H](O[C@]34CC[C@@H]5[C@](CC3=C)(C4)CC[C@H]3[C@@](CCC[C@@]35C)(C(O)=O)C)C2O[C@H]2OC(CO)C(O)C(O)C2O)CO)C(O)C(O)C(O)C1CO,32500,4.511883361
-rebaudiosideC,test_315,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2O[C@@]34CC[C@H]5[C@@]6(CCC[C@@]([C@H]6CC[C@]5(C3)CC4=C)(C)C(=O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)C)CO)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O)O)O,8500,3.929418926
-rebaudiosideD,test_316,C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O,8500,3.929418926
-rebaudiosideE,test_317,O1C(CO)C(O)C(O)C(O)C1OC1C(O)C(O)C(OC1O[C@]12CCC3[C@](CC1=C)(C2)CCC1[C@@](CCC[C@@]13C)(C(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(O)C1O)=O)C)CO,12500,4.096910013
-rebaudiosideF,test_318,O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@]1([C@@H]2CC[C@@]34[C@@H](CC[C@@](O[C@H]5OC(CO)C(O)C(O[C@H]6OC(CO)C(O)C(O)C6O)C5O[C@H]5OCC(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC1)C)C,11250,4.051152522
+rebaudiosideﾂA,test_313,C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O,22500,4.352182518
+rebaudiosideﾂB,test_314,O1[C@H](OC2C(O)C(O[C@H](O[C@]34CC[C@@H]5[C@](CC3=C)(C4)CC[C@H]3[C@@](CCC[C@@]35C)(C(O)=O)C)C2O[C@H]2OC(CO)C(O)C(O)C2O)CO)C(O)C(O)C(O)C1CO,32500,4.511883361
+rebaudiosideﾂC,test_315,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2O[C@@]34CC[C@H]5[C@@]6(CCC[C@@]([C@H]6CC[C@]5(C3)CC4=C)(C)C(=O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)C)CO)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O)O)O,8500,3.929418926
+rebaudiosideﾂD,test_316,C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O,8500,3.929418926
+rebaudiosideﾂE,test_317,O1C(CO)C(O)C(O)C(O)C1OC1C(O)C(O)C(OC1O[C@]12CCC3[C@](CC1=C)(C2)CCC1[C@@](CCC[C@@]13C)(C(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(O)C1O)=O)C)CO,12500,4.096910013
+rebaudiosideﾂF,test_318,O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@]1([C@@H]2CC[C@@]34[C@@H](CC[C@@](O[C@H]5OC(CO)C(O)C(O[C@H]6OC(CO)C(O)C(O)C6O)C5O[C@H]5OCC(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC1)C)C,11250,4.051152522
 steviolbioside,test_319,O1[C@@H](OC2[C@H](OC(CO)C(O)C2O)O[C@@]23CC[C@H]4[C@@](CC2=C)(C3)CC[C@@H]2[C@](CCC[C@]24C)(C(O)=O)C)C(O)C(O)C(O)C1CO,11250,4.051152522
 stevioside,test_320,O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@@]1([C@H]2CC[C@]34[C@H](CC[C@](O[C@H]5OC(CO)C(O)C(O)C5O[C@H]5OC(CO)C(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC1)C)C,18500,4.267171728
 ?-D-lactose,test_321,O1C(CO)C(O)C(O)C(O)C1OC1C(O)C(O)C(OC1CO)O,36.46,1.561816664
@@ -496,10 +496,10 @@ sodium (cyclopentylmethyl)sulfamate,test_352,O=S(=O)(O[Na])NCC1CCCC1,15.13561248
 3-amino-4-[(1-tert-butoxy-4-methoxy-4-oxobutan-2-yl)amino]-4-oxobutanoic acid,test_495,CC(C)(C)OCC(CC(=O)OC)NC(=O)C(N)CC(=O)O,141.2537545,2.15
 3-amino-4-[(4-methoxy-4-oxo-1-phenoxybutan-2-yl)amino]-4-oxobutanoic acid,test_496,O=C(O)CC(N)C(=O)NC(COc1ccccc1)CC(=O)OC,141.2537545,2.15
 "3-amino-4-[(3-hydroxy-1,5-dimethoxy-1,5-dioxopentan-2-yl)amino]-4-oxobutanoic acid",test_497,O=C(NC(C(O)CC(=O)OC)C(=O)OC)C(N)CC(=O)O,100,2
-4-(ethylamino)-4-oxo-3-(propylamino)butanoic acid容thane (1/1),test_498,CCCNC(CC(=O)O)C(=O)NCC,33.88441561,1.53
-"4-oxo-3,4-bis(propylamino)butanoic acid容thane (1/1)",test_499,CCCNC(CC(=O)O)C(=O)NCCC,26.91534804,1.43
-4-(butylamino)-4-oxo-3-(propylamino)butanoic acid容thane (1/1),test_500,CCCNC(CC(=O)O)C(=O)NCCCC,44.66835922,1.65
-4-[(2-methylpropyl)amino]-4-oxo-3-(propylamino)butanoic acid容thane (1/1),test_501,CCCNC(CC(=O)O)C(=O)NCC(C)C,64.5654229,1.81
+4-(ethylamino)-4-oxo-3-(propylamino)butanoic acidﾂ容thane (1/1),test_498,CCCNC(CC(=O)O)C(=O)NCC,33.88441561,1.53
+"4-oxo-3,4-bis(propylamino)butanoic acidﾂ容thane (1/1)",test_499,CCCNC(CC(=O)O)C(=O)NCCC,26.91534804,1.43
+4-(butylamino)-4-oxo-3-(propylamino)butanoic acidﾂ容thane (1/1),test_500,CCCNC(CC(=O)O)C(=O)NCCCC,44.66835922,1.65
+4-[(2-methylpropyl)amino]-4-oxo-3-(propylamino)butanoic acidﾂ容thane (1/1),test_501,CCCNC(CC(=O)O)C(=O)NCC(C)C,64.5654229,1.81
 ,test_502,O=C(O)CC(NCCC(C)(C)C)C(=O)NC(Cc1ccccc1)C(=O)OC,10964.78196,4.04
 ,test_503,O=C(O)CC(NCC(CC)CC)C(=O)NC(Cc1ccccc1)C(=O)OC,2187.761624,3.34
 ,test_504,O=C(O)CC(\N=C\CCC)C(=O)NC(Cc1ccccc1)C(=O)OC,1621.810097,3.21
